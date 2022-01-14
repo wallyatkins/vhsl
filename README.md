@@ -43,8 +43,29 @@ Indexes:
     "counties_pkey" PRIMARY KEY, btree (id)
 ```
 
-## Create A States Geometry From Counties
+## Create A State's Geometry From Counties
 
 ```
 psql -d postgis_db -c "select ST_AsGeoJson(ST_Union(ST_MakeValid(geom))) as state from geo_data.counties where state_fp = '51'" -o /var/lib/postgresql/virgina.geojson
+```
+
+## Finding The City/County Each School Is Located Within
+
+```
+select s.name school, d.name district, c.name from geo_data.schools s, geo_data.districts d, geo_data.counties c where s.district = d.id and d.id = 2 and ST_Contains(c.geom, s.geom);
+```
+
+```
+   school   |  district  |     name
+------------+------------+---------------
+ Jamestown  | Bay Rivers | James City
+ Lafayette  | Bay Rivers | James City
+ Warhill    | Bay Rivers | James City
+ Smithfield | Bay Rivers | Isle of Wight
+ New Kent   | Bay Rivers | New Kent
+ Poquoson   | Bay Rivers | Poquoson
+ Bruton     | Bay Rivers | York
+ Grafton    | Bay Rivers | York
+ Tabb       | Bay Rivers | York
+ York       | Bay Rivers | York
 ```
