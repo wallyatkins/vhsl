@@ -1,0 +1,140 @@
+{
+  "schools": [
+    {
+      "name": "Meridian",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Meridian+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Armstrong",
+      "coordinates": {
+        "lat": 37.5525312,
+        "lng": -77.4035002
+      },
+      "address": "Armstrong High School, Poplar Street, Central Gardens, Henrico County, Virginia, 23223, United States"
+    },
+    {
+      "name": "Cosby",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Cosby+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Franklin County",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Franklin+County+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Carroll County",
+      "coordinates": {
+        "lat": 36.7630139,
+        "lng": -80.7248794
+      },
+      "address": "Carroll County High School, East Stuart Drive, Hillsville, Carroll County, Virginia, 24343, United States"
+    },
+    {
+      "name": "Lakeland",
+      "coordinates": {
+        "lat": 36.7218326,
+        "lng": -76.6612083
+      },
+      "address": "Lakeland High School, Kilby Lane, Forest Glen Terrace, Suffolk, Virginia, 23434, United States"
+    },
+    {
+      "name": "Mills Godwin",
+      "coordinates": {
+        "lat": 37.61853,
+        "lng": -77.6042787
+      },
+      "address": "Mills E. Godwin High School, 2101, Pump Road, Henrico County, Virginia, 23238, United States"
+    },
+    {
+      "name": "Matoaca",
+      "coordinates": {
+        "lat": 37.2794118,
+        "lng": -77.4664874
+      },
+      "address": "Matoaca High School, 17700, Longhouse Lane, Chesterfield County, Virginia, 23838, United States"
+    },
+    {
+      "name": "Richmond HS (Arts)",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Richmond+HS+%28Arts%29+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Colonial Forge",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Colonial+Forge+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Manchester",
+      "coordinates": {
+        "lat": 37.4068576,
+        "lng": -77.6226638
+      },
+      "address": "Manchester High School, 12601, Bailey Bridge Road, Cameron Bay, Midlothian, Chesterfield County, Virginia, 23112, United States"
+    },
+    {
+      "name": "Heritage (Leesburg)",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Heritage+%28Leesburg%29+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Annandale",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Annandale+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Handley",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Handley+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Godwin, Mills",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Godwin%2C+Mills+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "C.G. Woodson",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=C.G.+Woodson+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Lake Braddock",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Lake+Braddock+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Broad Run",
+      "coordinates": {
+        "lat": 39.0227062,
+        "lng": -77.4906897
+      },
+      "address": "Broad Run High School, Winthrop Court, Farmwell Hunt, Ashburn, Loudoun County, Virginia, 20147, United States"
+    },
+    {
+      "name": "Massaponax",
+      "coordinates": null,
+      "address": null,
+      "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Massaponax+High+School%2C+Virginia&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))"
+    },
+    {
+      "name": "Henrico",
+      "coordinates": {
+        "lat": 37.6040414,
+        "lng": -77.4327484
+      },
+      "address": "Henrico High School, 302, Azalea Avenue, Henrico County, Virginia, 23227, United States"
+    }
+  ]
+}

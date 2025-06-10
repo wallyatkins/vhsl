@@ -1,0 +1,204 @@
+{
+  "districts": [
+    {
+      "name": "Beach District",
+      "schools": [
+        {"name": "Bayside", "class": 5},
+        {"name": "Cox, Frank", "class": 5},
+        {"name": "First Colonial", "class": 5},
+        {"name": "Green Run", "class": 5},
+        {"name": "Kellam, Floyd", "class": 5},
+        {"name": "Kempsville", "class": 5},
+        {"name": "Landstown", "class": 6},
+        {"name": "Ocean Lakes", "class": 5},
+        {"name": "Princess Anne", "class": 5},
+        {"name": "Salem (Va. Beach)", "class": 5},
+        {"name": "Tallwood", "class": 5}
+      ]
+    },
+    {
+      "name": "Capital District",
+      "schools": [
+        {"name": "Armstrong", "class": 3},
+        {"name": "Atlee", "class": 4},
+        {"name": "Hanover", "class": 4},
+        {"name": "Henrico", "class": 4},
+        {"name": "Henry, Patrick (Ashland)", "class": 4},
+        {"name": "Highland Springs", "class": 6},
+        {"name": "Mechanicsville", "class": 4},
+        {"name": "Varina", "class": 4}
+      ]
+    },
+    {
+      "name": "Concorde District",
+      "schools": [
+        {"name": "Centreville", "class": 6},
+        {"name": "Chantilly", "class": 6},
+        {"name": "James Madison", "class": 6},
+        {"name": "Oakton", "class": 6},
+        {"name": "South Lakes", "class": 6},
+        {"name": "Westfield", "class": 6}
+      ]
+    },
+    {
+      "name": "Cardinal District",
+      "schools": [
+        {"name": "Colgan, Charles J.", "class": 6},
+        {"name": "Forest Park", "class": 6},
+        {"name": "Freedom (Woodbridge)", "class": 6},
+        {"name": "Gar-Field", "class": 6},
+        {"name": "Hylton, C.D.", "class": 6},
+        {"name": "Potomac", "class": 6},
+        {"name": "Woodbridge", "class": 6}
+      ]
+    },
+    {
+      "name": "Liberty District",
+      "schools": [
+        {"name": "George Marshall", "class": 6},
+        {"name": "Herndon", "class": 6},
+        {"name": "Langley", "class": 6},
+        {"name": "McLean", "class": 6},
+        {"name": "Wakefield", "class": 6},
+        {"name": "Washington-Liberty", "class": 6},
+        {"name": "Yorktown", "class": 6}
+      ]
+    },
+    {
+      "name": "Cedar Run District",
+      "schools": [
+        {"name": "Battlefield", "class": 6},
+        {"name": "Freedom (Leesburg)", "class": 6},
+        {"name": "Gainesville", "class": 6},
+        {"name": "Osbourn", "class": 6},
+        {"name": "Osbourn Park", "class": 6},
+        {"name": "Patriot", "class": 6},
+        {"name": "Unity Reed", "class": 6}
+      ]
+    },
+    {
+      "name": "Patriot District",
+      "schools": [
+        {"name": "Alexandria City", "class": 6},
+        {"name": "Fairfax", "class": 6},
+        {"name": "James Robinson", "class": 6},
+        {"name": "Lake Braddock", "class": 6},
+        {"name": "South County", "class": 6},
+        {"name": "W. T. Woodson", "class": 6},
+        {"name": "West Potomac", "class": 6},
+        {"name": "West Springfield", "class": 6}
+      ]
+    },
+    {
+      "name": "Commonwealth District",
+      "schools": [
+        {"name": "Brooke Point", "class": 6},
+        {"name": "Colonial Forge", "class": 6},
+        {"name": "Massaponax", "class": 5},
+        {"name": "Mountain View", "class": 6},
+        {"name": "North Stafford", "class": 6},
+        {"name": "Riverbend", "class": 5},
+        {"name": "Stafford", "class": 6}
+      ]
+    },
+    {
+      "name": "National District",
+      "schools": [
+        {"name": "Annandale", "class": 6},
+        {"name": "Falls Church", "class": 6},
+        {"name": "Hayfield", "class": 6},
+        {"name": "Justice", "class": 6},
+        {"name": "Mount Vernon", "class": 6},
+        {"name": "John R. Lewis", "class": 6},
+        {"name": "Thomas Edison", "class": 6},
+        {"name": "Thomas Jefferson S/T", "class": 6}
+      ]
+    },
+    {
+      "name": "Central District",
+      "schools": [
+        {"name": "App. Reg. Gov.", "class": 1},
+        {"name": "Colonial Heights", "class": 3},
+        {"name": "Dale, Thomas", "class": 6},
+        {"name": "Dinwiddie", "class": 4},
+        {"name": "Hopewell", "class": 3},
+        {"name": "Matoaca", "class": 5},
+        {"name": "Meadowbrook", "class": 6},
+        {"name": "Petersburg", "class": 3},
+        {"name": "Prince George", "class": 5}
+      ]
+    },
+    {
+      "name": "Colonial District",
+      "schools": [
+        {"name": "Deep Run", "class": 6},
+        {"name": "Freeman, Douglas", "class": 5},
+        {"name": "Glen Allen", "class": 6},
+        {"name": "Godwin, Mills", "class": 5},
+        {"name": "Hermitage", "class": 5},
+        {"name": "Jefferson, Thomas", "class": 3},
+        {"name": "Marshall, John", "class": 2},
+        {"name": "Tucker, J. R.", "class": 5},
+        {"name": "Walker, M. Gov.", "class": 3}
+      ]
+    },
+    {
+      "name": "Dominion District",
+      "schools": [
+        {"name": "Bird, L. C.", "class": 5},
+        {"name": "Clover Hill", "class": 5},
+        {"name": "Cosby", "class": 6},
+        {"name": "Huguenot", "class": 4},
+        {"name": "James River (Midlo.)", "class": 5},
+        {"name": "Manchester", "class": 6},
+        {"name": "Midlothian", "class": 5},
+        {"name": "Monacan", "class": 4},
+        {"name": "Richmond HS (Arts)", "class": 4},
+        {"name": "Powhatan", "class": 4}
+      ]
+    },
+    {
+      "name": "Eastern District",
+      "schools": [
+        {"name": "Churchland", "class": 4},
+        {"name": "Granby", "class": 5},
+        {"name": "Lake Taylor", "class": 3},
+        {"name": "Manor", "class": 4},
+        {"name": "Maury", "class": 5},
+        {"name": "Norcom, I.C.", "class": 3},
+        {"name": "Norview", "class": 5},
+        {"name": "Washington, B.T.", "class": 3}
+      ]
+    },
+    {
+      "name": "Peninsula District",
+      "schools": [
+        {"name": "Bethel", "class": 5},
+        {"name": "Denbigh", "class": 4},
+        {"name": "Gloucester", "class": 4},
+        {"name": "Hampton", "class": 4},
+        {"name": "Heritage (NN)", "class": 3},
+        {"name": "Kecoughtan", "class": 5},
+        {"name": "Menchville", "class": 5},
+        {"name": "Phoebus", "class": 4},
+        {"name": "Warwick", "class": 5},
+        {"name": "Woodside", "class": 5}
+      ]
+    },
+    {
+      "name": "Southeastern District",
+      "schools": [
+        {"name": "Deep Creek", "class": 5},
+        {"name": "Grassfield", "class": 6},
+        {"name": "Great Bridge", "class": 5},
+        {"name": "Hickory", "class": 5},
+        {"name": "Indian River", "class": 5},
+        {"name": "King's Fork", "class": 5},
+        {"name": "Lakeland", "class": 3},
+        {"name": "Nansemond River", "class": 5},
+        {"name": "Smith, Oscar", "class": 6},
+        {"name": "Western Branch", "class": 6}
+      ]
+    }
+  ]
+}

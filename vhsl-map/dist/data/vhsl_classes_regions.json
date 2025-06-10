@@ -1,0 +1,313 @@
+{
+  "classes": [
+    {
+      "name": "Class 6",
+      "total_schools": 59,
+      "regions": [
+        {
+          "name": "Region A",
+          "schools": [
+            "Cosby",
+            "Deep Run",
+            "Glen Allen",
+            "Grassfield",
+            "Highland Springs",
+            "Landstown",
+            "Manchester",
+            "Meadowbrook",
+            "Oscar Smith",
+            "Thomas Dale",
+            "Western Branch"
+          ]
+        },
+        {
+          "name": "Region B",
+          "schools": [
+            "Battlefield",
+            "Brooke Point",
+            "C. D. Hylton",
+            "Charles Colgan",
+            "Colonial Forge",
+            "Forest Park",
+            "Freedom (Leesburg)",
+            "Freedom (Woodbridge)",
+            "Gainesville",
+            "Gar-Field",
+            "Mountain View",
+            "North Stafford",
+            "Osbourn",
+            "Osbourn Park",
+            "Patriot",
+            "Potomac",
+            "Stafford",
+            "Unity Reed",
+            "Woodbridge"
+          ]
+        },
+        {
+          "name": "Region C",
+          "schools": [
+            "Alexandria City",
+            "Annandale",
+            "C.G. Woodson",
+            "Fairfax",
+            "Falls Church",
+            "Hayfield",
+            "James Robinson",
+            "John R. Lewis",
+            "Justice",
+            "Lake Braddock",
+            "Mount Vernon",
+            "South County",
+            "Thomas Edison",
+            "Thomas Jefferson S/T",
+            "West Potomac",
+            "West Springfield"
+          ]
+        },
+        {
+          "name": "Region D",
+          "schools": [
+            "Centreville",
+            "Chantilly",
+            "George Marshall",
+            "Herndon",
+            "James Madison",
+            "Langley",
+            "McLean",
+            "Oakton",
+            "South Lakes",
+            "Wakefield",
+            "Washington-Liberty",
+            "Westfield",
+            "Yorktown"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 5",
+      "total_schools": 48,
+      "regions": [
+        {
+          "name": "Region A",
+          "schools": [
+            "Bayside",
+            "Deep Creek",
+            "First Colonial",
+            "Floyd Kellam",
+            "Frank Cox",
+            "Great Bridge",
+            "Green Run",
+            "Hickory",
+            "Indian River",
+            "Kempsville",
+            "Ocean Lakes",
+            "Princess Anne",
+            "Salem (Va. Beach)",
+            "Tallwood"
+          ]
+        },
+        {
+          "name": "Region B",
+          "schools": [
+            "Bethel",
+            "Granby",
+            "Kecoughtan",
+            "King's Fork",
+            "Maury",
+            "Menchville",
+            "Nansemond River",
+            "Norview",
+            "Warwick",
+            "Woodside"
+          ]
+        },
+        {
+          "name": "Region C",
+          "schools": [
+            "Albemarle",
+            "Clover Hill",
+            "Douglas Freeman",
+            "Franklin County",
+            "Hermitage",
+            "J. R. Tucker",
+            "James River (Midlothian)",
+            "L. C. Bird",
+            "Louisa County",
+            "Matoaca",
+            "Midlothian",
+            "Mills Godwin",
+            "Patrick Henry (Roanoke)",
+            "Prince George",
+            "William Fleming"
+          ]
+        },
+        {
+          "name": "Region D",
+          "schools": [
+            "Briar Woods",
+            "Harrisonburg",
+            "Independence",
+            "Lightridge",
+            "Massaponax",
+            "Potomac Falls",
+            "Riverbend",
+            "Riverside",
+            "Stone Bridge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 4",
+      "total_schools": 51,
+      "regions": [
+        {
+          "name": "Region A",
+          "schools": [
+            "Churchland",
+            "Denbigh",
+            "Gloucester",
+            "Hampton",
+            "Jamestown",
+            "Manor",
+            "Smithfield",
+            "Warhill"
+          ]
+        },
+        {
+          "name": "Region B",
+          "schools": [
+            "Atlee",
+            "Caroline",
+            "Chancellor",
+            "Courtland",
+            "Dinwiddie",
+            "Eastern View",
+            "Hanover",
+            "Mechanicsville",
+            "Powhatan",
+            "King George",
+            "Huguenot",
+            "Armstrong",
+            "Henrico"
+          ]
+        },
+        {
+          "name": "Region C",
+          "schools": [
+            "Broad Run",
+            "Fauquier",
+            "Heritage (Leesburg)",
+            "John Champe",
+            "Loudoun County",
+            "Loudoun Valley",
+            "Park View",
+            "Rock Ridge",
+            "Kettle Run",
+            "Millbrook",
+            "Sherando",
+            "Northwestern (Winchester)",
+            "Handley",
+            "Liberty (Bealeton)",
+            "Dominion",
+            "Woodgrove"
+          ]
+        },
+        {
+          "name": "Region D",
+          "schools": [
+            "Amherst",
+            "Blacksburg",
+            "Charlottesville",
+            "E. C. Glass",
+            "George Washington",
+            "Halifax County",
+            "Hidden Valley",
+            "Jefferson Forest",
+            "Liberty Christian",
+            "Pulaski County",
+            "Salem (Roanoke)",
+            "William Byrd",
+            "Mecklenburg",
+            "Orange",
+            "Western Albemarle"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 3",
+      "total_schools": 57,
+      "regions": [
+        {
+          "name": "Region A",
+          "schools": [
+            "Colonial Heights",
+            "I. C. Norcom",
+            "Lafayette",
+            "Lakeland",
+            "New Kent",
+            "Phoebus",
+            "Southampton",
+            "Tabb",
+            "York"
+          ]
+        },
+        {
+          "name": "Region B",
+          "schools": [
+            "Brentsville",
+            "Culpeper",
+            "James Monroe",
+            "Manassas Park",
+            "Meridian",
+            "Skyline",
+            "Warren County",
+            "William Monroe"
+          ]
+        },
+        {
+          "name": "Region C",
+          "schools": [
+            "Abingdon",
+            "Carroll County",
+            "Cave Spring",
+            "Christiansburg",
+            "Hidden Valley",
+            "Lord Botetourt",
+            "Magna Vista",
+            "Northside",
+            "Staunton River",
+            "Tunstall"
+          ]
+        },
+        {
+          "name": "Region D",
+          "schools": [
+            "Fort Defiance",
+            "Liberty (Bedford)",
+            "Monticello",
+            "Rockbridge County",
+            "Spotswood",
+            "Staunton",
+            "Turner Ashby",
+            "Waynesboro",
+            "Wilson Memorial"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 2",
+      "total_schools": 48,
+      "regions": []
+    },
+    {
+      "name": "Class 1",
+      "total_schools": 57,
+      "regions": []
+    }
+  ]
+}

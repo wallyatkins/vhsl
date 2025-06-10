@@ -1,0 +1,136 @@
+{
+  "classes": [
+    {
+      "id": "class1",
+      "name": "Class 1",
+      "regions": [
+        {
+          "id": "region1A",
+          "name": "Region 1A"
+        },
+        {
+          "id": "region1B",
+          "name": "Region 1B"
+        },
+        {
+          "id": "region1C",
+          "name": "Region 1C"
+        },
+        {
+          "id": "region1D",
+          "name": "Region 1D"
+        }
+      ]
+    },
+    {
+      "id": "class2",
+      "name": "Class 2",
+      "regions": [
+        {
+          "id": "region2A",
+          "name": "Region 2A"
+        },
+        {
+          "id": "region2B",
+          "name": "Region 2B"
+        },
+        {
+          "id": "region2C",
+          "name": "Region 2C"
+        },
+        {
+          "id": "region2D",
+          "name": "Region 2D"
+        }
+      ]
+    },
+    {
+      "id": "class3",
+      "name": "Class 3",
+      "regions": [
+        {
+          "id": "region3A",
+          "name": "Region 3A"
+        },
+        {
+          "id": "region3B",
+          "name": "Region 3B"
+        },
+        {
+          "id": "region3C",
+          "name": "Region 3C"
+        },
+        {
+          "id": "region3D",
+          "name": "Region 3D"
+        }
+      ]
+    },
+    {
+      "id": "class4",
+      "name": "Class 4",
+      "regions": [
+        {
+          "id": "region4A",
+          "name": "Region 4A"
+        },
+        {
+          "id": "region4B",
+          "name": "Region 4B"
+        },
+        {
+          "id": "region4C",
+          "name": "Region 4C"
+        },
+        {
+          "id": "region4D",
+          "name": "Region 4D"
+        }
+      ]
+    },
+    {
+      "id": "class5",
+      "name": "Class 5",
+      "regions": [
+        {
+          "id": "region5A",
+          "name": "Region 5A"
+        },
+        {
+          "id": "region5B",
+          "name": "Region 5B"
+        },
+        {
+          "id": "region5C",
+          "name": "Region 5C"
+        },
+        {
+          "id": "region5D",
+          "name": "Region 5D"
+        }
+      ]
+    },
+    {
+      "id": "class6",
+      "name": "Class 6",
+      "regions": [
+        {
+          "id": "region6A",
+          "name": "Region 6A"
+        },
+        {
+          "id": "region6B",
+          "name": "Region 6B"
+        },
+        {
+          "id": "region6C",
+          "name": "Region 6C"
+        },
+        {
+          "id": "region6D",
+          "name": "Region 6D"
+        }
+      ]
+    }
+  ]
+}

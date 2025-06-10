@@ -1,0 +1,3832 @@
+{
+  "schools": [
+    {
+      "name": "Charles City",
+      "coordinates": {
+        "lng": -77.07593803,
+        "lat": 37.35098283
+      },
+      "address": "Charles City, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Chincoteague",
+      "coordinates": {
+        "lng": -75.36433909,
+        "lat": 37.94293107
+      },
+      "address": "Chincoteague, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Eastern Shore",
+      "synthetic": false
+    },
+    {
+      "name": "Colonial Beach",
+      "coordinates": {
+        "lng": -76.96929798,
+        "lat": 38.25778076
+      },
+      "address": "Colonial Beach, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "Essex",
+      "coordinates": {
+        "lng": -76.874319,
+        "lat": 37.92393778
+      },
+      "address": "Essex, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "King & Queen",
+      "coordinates": {
+        "lng": -76.88255215,
+        "lat": 37.674278
+      },
+      "address": "King & Queen, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Lancaster",
+      "coordinates": {
+        "lng": -76.45674989,
+        "lat": 37.76879536
+      },
+      "address": "Lancaster, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "Mathews",
+      "coordinates": {
+        "lng": -76.32550153,
+        "lat": 37.45009366
+      },
+      "address": "Mathews, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Middlesex",
+      "coordinates": {
+        "lng": -76.60202396,
+        "lat": 37.60814115
+      },
+      "address": "Middlesex, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Northampton",
+      "coordinates": {
+        "lng": -75.94136521,
+        "lat": 37.3612684
+      },
+      "address": "Northampton, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Eastern Shore",
+      "synthetic": false
+    },
+    {
+      "name": "Northumberland",
+      "coordinates": {
+        "lng": -76.43890512,
+        "lat": 37.91323855
+      },
+      "address": "Northumberland, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "Rappahannock",
+      "coordinates": {
+        "lng": -76.74336496,
+        "lat": 37.94921185
+      },
+      "address": "Rappahannock, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "Washington & Lee",
+      "coordinates": {
+        "lng": -76.81824763,
+        "lat": 38.09355207
+      },
+      "address": "Washington & Lee, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Northern Neck",
+      "synthetic": false
+    },
+    {
+      "name": "West Point",
+      "coordinates": {
+        "lng": -76.79710111,
+        "lat": 37.55736667
+      },
+      "address": "West Point, Virginia",
+      "class": "1",
+      "region": "Region 1A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Altavista",
+      "coordinates": {
+        "lng": -79.29608408,
+        "lat": 37.10926577
+      },
+      "address": "Altavista, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Appomattox Regional Governors School",
+      "coordinates": {
+        "lng": -77.41162612,
+        "lat": 37.22595174
+      },
+      "address": "Appomattox Regional Governors School, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Carver College & Career Academy",
+      "coordinates": {
+        "lng": -77.47262211,
+        "lat": 37.34859167
+      },
+      "address": "Carver College & Career Academy, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Central (Lunenburg)",
+      "coordinates": {
+        "lng": -78.21684539,
+        "lat": 36.98503361
+      },
+      "address": "Central (Lunenburg), Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Cumberland",
+      "coordinates": {
+        "lng": -78.24695041,
+        "lat": 37.49094658
+      },
+      "address": "Cumberland, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Franklin",
+      "coordinates": {
+        "lng": -76.94784179,
+        "lat": 36.69113704
+      },
+      "address": "Franklin, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Galileo Magnet",
+      "coordinates": {
+        "lng": -79.39318074,
+        "lat": 36.58392566
+      },
+      "address": "Galileo Magnet, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Rappahannock County",
+      "coordinates": {
+        "lng": -78.18767806,
+        "lat": 38.68668528
+      },
+      "address": "Rappahannock County, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Riverheads",
+      "coordinates": {
+        "lng": -79.139953,
+        "lat": 38.0325554
+      },
+      "address": "Riverheads, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Surry County",
+      "coordinates": {
+        "lng": -76.90343585,
+        "lat": 37.08027239
+      },
+      "address": "Surry County, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Sussex",
+      "coordinates": {
+        "lng": -77.25421794,
+        "lat": 36.92020037
+      },
+      "address": "Sussex, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "William Campbell",
+      "coordinates": {
+        "lng": -79.00671594,
+        "lat": 37.11344129
+      },
+      "address": "William Campbell, Virginia",
+      "class": "1",
+      "region": "Region 1B",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Auburn",
+      "coordinates": {
+        "lng": -80.44426881,
+        "lat": 37.05939231
+      },
+      "address": "Auburn, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "Bath County",
+      "coordinates": {
+        "lng": -79.79476705,
+        "lat": 38.03320054
+      },
+      "address": "Bath County, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Bland County",
+      "coordinates": {
+        "lng": -81.10940784,
+        "lat": 37.24149024
+      },
+      "address": "Bland County, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "Covington",
+      "coordinates": {
+        "lng": -79.99171121,
+        "lat": 37.784281
+      },
+      "address": "Covington, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Craig County",
+      "coordinates": {
+        "lng": -80.08439633,
+        "lat": 37.51651599
+      },
+      "address": "Craig County, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Eastern Montgomery",
+      "coordinates": {
+        "lng": -80.23052783,
+        "lat": 37.20423232
+      },
+      "address": "Eastern Montgomery, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Fort Chiswell",
+      "coordinates": {
+        "lng": -80.9395259,
+        "lat": 36.92971909
+      },
+      "address": "Fort Chiswell, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "Galax",
+      "coordinates": {
+        "lng": -80.92417614,
+        "lat": 36.6547361
+      },
+      "address": "Galax, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "George Wythe (Wytheville)",
+      "coordinates": {
+        "lng": -81.1025141,
+        "lat": 36.94125271
+      },
+      "address": "George Wythe (Wytheville), Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "Grayson County",
+      "coordinates": {
+        "lng": -81.14672871,
+        "lat": 36.621475
+      },
+      "address": "Grayson County, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Mountain Empire",
+      "synthetic": false
+    },
+    {
+      "name": "Highland County",
+      "coordinates": {
+        "lng": -79.57895117,
+        "lat": 38.4072979
+      },
+      "address": "Highland County, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Narrows",
+      "coordinates": {
+        "lng": -80.80402685,
+        "lat": 37.33765483
+      },
+      "address": "Narrows, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Parry McCluer",
+      "coordinates": {
+        "lng": -79.35948647,
+        "lat": 37.71823945
+      },
+      "address": "Parry McCluer, Virginia",
+      "class": "1",
+      "region": "Region 1C",
+      "district": "Pioneer",
+      "synthetic": false
+    },
+    {
+      "name": "Castlewood",
+      "coordinates": {
+        "lng": -82.29632028,
+        "lat": 36.87197785
+      },
+      "address": "Castlewood, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Chilhowie",
+      "coordinates": {
+        "lng": -81.67373413,
+        "lat": 36.80446381
+      },
+      "address": "Chilhowie, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Hogoheegee",
+      "synthetic": false
+    },
+    {
+      "name": "Council",
+      "coordinates": {
+        "lng": -82.0793243,
+        "lat": 37.08224452
+      },
+      "address": "Council, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "Eastside",
+      "coordinates": {
+        "lng": -82.46828565,
+        "lat": 36.94595205
+      },
+      "address": "Eastside, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Grundy",
+      "coordinates": {
+        "lng": -82.06196088,
+        "lat": 37.28350847
+      },
+      "address": "Grundy, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "Haysi",
+      "coordinates": {
+        "lng": -82.29360432,
+        "lat": 37.19972953
+      },
+      "address": "Haysi, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "Holston",
+      "coordinates": {
+        "lng": -81.79391287,
+        "lat": 36.65426083
+      },
+      "address": "Holston, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Hogoheegee",
+      "synthetic": false
+    },
+    {
+      "name": "Honaker",
+      "coordinates": {
+        "lng": -81.97868381,
+        "lat": 37.0168268
+      },
+      "address": "Honaker, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "Hurley",
+      "coordinates": {
+        "lng": -82.0004138,
+        "lat": 37.38024718
+      },
+      "address": "Hurley, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "J.I. Burton",
+      "coordinates": {
+        "lng": -82.63354485,
+        "lat": 36.92982794
+      },
+      "address": "J.I. Burton, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Northwood",
+      "coordinates": {
+        "lng": -81.76285871,
+        "lat": 36.87891017
+      },
+      "address": "Northwood, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Hogoheegee",
+      "synthetic": false
+    },
+    {
+      "name": "Patrick Henry (Glade Spring)",
+      "coordinates": {
+        "lng": -81.81450086,
+        "lat": 36.7761881
+      },
+      "address": "Patrick Henry (Glade Spring), Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Hogoheegee",
+      "synthetic": false
+    },
+    {
+      "name": "Rural Retreat",
+      "coordinates": {
+        "lng": -81.26931573,
+        "lat": 36.89542392
+      },
+      "address": "Rural Retreat, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Hogoheegee",
+      "synthetic": false
+    },
+    {
+      "name": "Rye Cove",
+      "coordinates": {
+        "lng": -82.69131874,
+        "lat": 36.73542458
+      },
+      "address": "Rye Cove, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Thomas Walker",
+      "coordinates": {
+        "lng": -83.40863207,
+        "lat": 36.64739072
+      },
+      "address": "Thomas Walker, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Twin Springs",
+      "coordinates": {
+        "lng": -82.46313311,
+        "lat": 36.7793819
+      },
+      "address": "Twin Springs, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Cumberland",
+      "synthetic": false
+    },
+    {
+      "name": "Twin Valley",
+      "coordinates": {
+        "lng": -81.91357041,
+        "lat": 37.24027986
+      },
+      "address": "Twin Valley, Virginia",
+      "class": "1",
+      "region": "Region 1D",
+      "district": "Black Diamond",
+      "synthetic": false
+    },
+    {
+      "name": "Amelia",
+      "coordinates": {
+        "lng": -77.98783996,
+        "lat": 37.33151562
+      },
+      "address": "Amelia, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Arcadia",
+      "coordinates": {
+        "lng": -75.54974664,
+        "lat": 37.92507876
+      },
+      "address": "Arcadia, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Eastern Shore",
+      "synthetic": false
+    },
+    {
+      "name": "Bluestone",
+      "coordinates": {
+        "lng": -78.49589394,
+        "lat": 36.70552445
+      },
+      "address": "Bluestone, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Brunswick",
+      "coordinates": {
+        "lng": -77.8294486,
+        "lat": 36.76729148
+      },
+      "address": "Brunswick, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Bruton",
+      "coordinates": {
+        "lng": -76.69157439,
+        "lat": 37.31095138
+      },
+      "address": "Bruton, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Greensville County",
+      "coordinates": {
+        "lng": -77.55302272,
+        "lat": 36.67945392
+      },
+      "address": "Greensville County, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "John Marshall",
+      "coordinates": {
+        "lng": -77.44650608,
+        "lat": 37.59513072
+      },
+      "address": "John Marshall, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "King William",
+      "coordinates": {
+        "lng": -77.13005411,
+        "lat": 37.74251698
+      },
+      "address": "King William, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Tidewater",
+      "synthetic": false
+    },
+    {
+      "name": "Nandua",
+      "coordinates": {
+        "lng": -75.7251235,
+        "lat": 37.67871973
+      },
+      "address": "Nandua, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Eastern Shore",
+      "synthetic": false
+    },
+    {
+      "name": "Nottoway",
+      "coordinates": {
+        "lng": -78.06431556,
+        "lat": 37.12271197
+      },
+      "address": "Nottoway, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Poquoson",
+      "coordinates": {
+        "lng": -76.37963456,
+        "lat": 37.12915226
+      },
+      "address": "Poquoson, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Prince Edward",
+      "coordinates": {
+        "lng": -78.39937063,
+        "lat": 37.26493415
+      },
+      "address": "Prince Edward, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Randolph-Henry",
+      "coordinates": {
+        "lng": -78.6473185,
+        "lat": 37.05398002
+      },
+      "address": "Randolph-Henry, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Thomas Jefferson (Richmond)",
+      "coordinates": {
+        "lng": -77.48651112,
+        "lat": 37.57124719
+      },
+      "address": "Thomas Jefferson (Richmond), Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Windsor",
+      "coordinates": {
+        "lng": -76.73924852,
+        "lat": 36.81046889
+      },
+      "address": "Windsor, Virginia",
+      "class": "2",
+      "region": "Region 2A",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Buckingham County",
+      "coordinates": {
+        "lng": -78.51131191,
+        "lat": 37.54103708
+      },
+      "address": "Buckingham County, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "James River",
+      "synthetic": false
+    },
+    {
+      "name": "Buffalo Gap",
+      "coordinates": {
+        "lng": -79.21872522,
+        "lat": 38.19409716
+      },
+      "address": "Buffalo Gap, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Clarke County",
+      "coordinates": {
+        "lng": -77.99422599,
+        "lat": 39.16172995
+      },
+      "address": "Clarke County, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "East Rockingham",
+      "coordinates": {
+        "lng": -78.65421908,
+        "lat": 38.39951571
+      },
+      "address": "East Rockingham, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Luray",
+      "coordinates": {
+        "lng": -78.48553569,
+        "lat": 38.65451477
+      },
+      "address": "Luray, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Madison County",
+      "coordinates": {
+        "lng": -78.26853326,
+        "lat": 38.3651389
+      },
+      "address": "Madison County, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Page County",
+      "coordinates": {
+        "lng": -78.610209,
+        "lat": 38.56356866
+      },
+      "address": "Page County, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Staunton",
+      "coordinates": {
+        "lng": -79.05332371,
+        "lat": 38.16530365
+      },
+      "address": "Staunton, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Mountain View (Stonewall Jackson)",
+      "coordinates": {
+        "lng": -78.66370048,
+        "lat": 38.70380007
+      },
+      "address": "Mountain View (Stonewall Jackson), Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Strasburg",
+      "coordinates": {
+        "lng": -78.36270712,
+        "lat": 38.98465656
+      },
+      "address": "Strasburg, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Bull Run",
+      "synthetic": false
+    },
+    {
+      "name": "Stuarts Draft",
+      "coordinates": {
+        "lng": -79.01291344,
+        "lat": 38.04644619
+      },
+      "address": "Stuarts Draft, Virginia",
+      "class": "2",
+      "region": "Region 2B",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Alleghany",
+      "coordinates": {
+        "lng": -79.90864672,
+        "lat": 37.78881131
+      },
+      "address": "Alleghany, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Appomattox",
+      "coordinates": {
+        "lng": -78.82611416,
+        "lat": 37.34543957
+      },
+      "address": "Appomattox, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Chatham",
+      "coordinates": {
+        "lng": -79.40231567,
+        "lat": 36.78756767
+      },
+      "address": "Chatham, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Dan River",
+      "coordinates": {
+        "lng": -79.30011355,
+        "lat": 36.66182949
+      },
+      "address": "Dan River, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Floyd County",
+      "coordinates": {
+        "lng": -80.30818427,
+        "lat": 36.90941174
+      },
+      "address": "Floyd County, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Giles",
+      "coordinates": {
+        "lng": -80.70470449,
+        "lat": 37.3274981
+      },
+      "address": "Giles, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Glenvar",
+      "coordinates": {
+        "lng": -80.13953006,
+        "lat": 37.28063354
+      },
+      "address": "Glenvar, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Gretna",
+      "coordinates": {
+        "lng": -79.36875363,
+        "lat": 36.94567814
+      },
+      "address": "Gretna, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "James River (Buchanan)",
+      "coordinates": {
+        "lng": -79.72626211,
+        "lat": 37.54748086
+      },
+      "address": "James River (Buchanan), Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Nelson County",
+      "coordinates": {
+        "lng": -78.89549879,
+        "lat": 37.7328428
+      },
+      "address": "Nelson County, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Dogwood",
+      "synthetic": false
+    },
+    {
+      "name": "Patrick County",
+      "coordinates": {
+        "lng": -80.27029472,
+        "lat": 36.62293569
+      },
+      "address": "Patrick County, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Radford",
+      "coordinates": {
+        "lng": -80.57011003,
+        "lat": 37.13580776
+      },
+      "address": "Radford, Virginia",
+      "class": "2",
+      "region": "Region 2C",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Central (Wise)",
+      "coordinates": {
+        "lng": -82.59735197,
+        "lat": 36.95520488
+      },
+      "address": "Central (Wise), Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Gate City",
+      "coordinates": {
+        "lng": -82.56891542,
+        "lat": 36.63976852
+      },
+      "address": "Gate City, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Graham",
+      "coordinates": {
+        "lng": -81.27062765,
+        "lat": 37.23799226
+      },
+      "address": "Graham, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "John Battle",
+      "coordinates": {
+        "lng": -82.10343473,
+        "lat": 36.6437899
+      },
+      "address": "John Battle, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Lebanon",
+      "coordinates": {
+        "lng": -82.10940515,
+        "lat": 36.88856275
+      },
+      "address": "Lebanon, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "Lee",
+      "coordinates": {
+        "lng": -83.08889684,
+        "lat": 36.731266
+      },
+      "address": "Lee, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Marion Senior",
+      "coordinates": {
+        "lng": -81.50495431,
+        "lat": 36.83878091
+      },
+      "address": "Marion Senior, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "Martinsville",
+      "coordinates": {
+        "lng": -79.86207,
+        "lat": 36.69461898
+      },
+      "address": "Martinsville, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Richlands",
+      "coordinates": {
+        "lng": -81.77750002,
+        "lat": 37.09343415
+      },
+      "address": "Richlands, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "Ridgeview",
+      "coordinates": {
+        "lng": -82.39003416,
+        "lat": 37.13411629
+      },
+      "address": "Ridgeview, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Tazewell",
+      "coordinates": {
+        "lng": -81.5053131,
+        "lat": 37.12476976
+      },
+      "address": "Tazewell, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "Union",
+      "coordinates": {
+        "lng": -82.73776645,
+        "lat": 36.87945936
+      },
+      "address": "Union, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Virginia",
+      "coordinates": {
+        "lng": -82.17945171,
+        "lat": 36.61469506
+      },
+      "address": "Virginia, Virginia",
+      "class": "2",
+      "region": "Region 2D",
+      "district": "Southwest",
+      "synthetic": false
+    },
+    {
+      "name": "Booker T. Washington",
+      "coordinates": {
+        "lng": -76.2662947,
+        "lat": 36.85293486
+      },
+      "address": "Booker T. Washington, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Colonial Heights",
+      "coordinates": {
+        "lng": -77.39109784,
+        "lat": 37.26787145
+      },
+      "address": "Colonial Heights, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Hopewell",
+      "coordinates": {
+        "lng": -77.31384785,
+        "lat": 37.28984351
+      },
+      "address": "Hopewell, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "I.C. Norcom",
+      "coordinates": {
+        "lng": -76.32049933,
+        "lat": 36.83607738
+      },
+      "address": "I.C. Norcom, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Lafayette",
+      "coordinates": {
+        "lng": -76.7633014,
+        "lat": 37.31605526
+      },
+      "address": "Lafayette, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Lakeland",
+      "coordinates": {
+        "lng": -76.660214,
+        "lat": 36.72103254
+      },
+      "address": "Lakeland, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "New Kent",
+      "coordinates": {
+        "lng": -76.98113178,
+        "lat": 37.51020375
+      },
+      "address": "New Kent, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Park View (South Hill)",
+      "coordinates": {
+        "lng": -78.18285579,
+        "lat": 36.70291407
+      },
+      "address": "Park View (South Hill), Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Petersburg",
+      "coordinates": {
+        "lng": -77.39995448,
+        "lat": 37.1871715
+      },
+      "address": "Petersburg, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Phoebus",
+      "coordinates": {
+        "lng": -76.31687681,
+        "lat": 37.03403867
+      },
+      "address": "Phoebus, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Southampton",
+      "coordinates": {
+        "lng": -77.10679385,
+        "lat": 36.70105542
+      },
+      "address": "Southampton, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Tri-Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Tabb",
+      "coordinates": {
+        "lng": -76.4376612,
+        "lat": 37.1240735
+      },
+      "address": "Tabb, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "York",
+      "coordinates": {
+        "lng": -76.50104189,
+        "lat": 37.20382631
+      },
+      "address": "York, Virginia",
+      "class": "3",
+      "region": "Region 3A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Armstrong",
+      "coordinates": {
+        "lng": -77.40407823,
+        "lat": 37.55206691
+      },
+      "address": "Armstrong, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Brentsville District",
+      "coordinates": {
+        "lng": -77.56885572,
+        "lat": 38.69213979
+      },
+      "address": "Brentsville District, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Central (Woodstock)",
+      "coordinates": {
+        "lng": -78.522893,
+        "lat": 38.86686252
+      },
+      "address": "Central (Woodstock), Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "George Mason (Meridian)",
+      "coordinates": {
+        "lng": -77.19189637,
+        "lat": 38.89769585
+      },
+      "address": "George Mason (Meridian), Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Goochland",
+      "coordinates": {
+        "lng": -77.89693819,
+        "lat": 37.69981473
+      },
+      "address": "Goochland, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "James Monroe",
+      "coordinates": {
+        "lng": -77.47476279,
+        "lat": 38.31120868
+      },
+      "address": "James Monroe, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Lightridge",
+      "coordinates": {
+        "lng": -77.58506523,
+        "lat": 38.92089102
+      },
+      "address": "Lightridge, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Maggie Walker Governor's School",
+      "coordinates": {
+        "lng": -77.45352846,
+        "lat": 37.55779902
+      },
+      "address": "Maggie Walker Governor's School, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Manassas Park",
+      "coordinates": {
+        "lng": -77.44019269,
+        "lat": 38.77836044
+      },
+      "address": "Manassas Park, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Skyline",
+      "coordinates": {
+        "lng": -78.20728477,
+        "lat": 38.90630189
+      },
+      "address": "Skyline, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Warren County",
+      "coordinates": {
+        "lng": -78.16662608,
+        "lat": 38.91612695
+      },
+      "address": "Warren County, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "William Monroe",
+      "coordinates": {
+        "lng": -78.44298699,
+        "lat": 38.29401578
+      },
+      "address": "William Monroe, Virginia",
+      "class": "3",
+      "region": "Region 3B",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Broadway",
+      "coordinates": {
+        "lng": -78.79479398,
+        "lat": 38.60557075
+      },
+      "address": "Broadway, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Brookville",
+      "coordinates": {
+        "lng": -79.23535275,
+        "lat": 37.3461137
+      },
+      "address": "Brookville, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Charlottesville",
+      "coordinates": {
+        "lng": -78.47531707,
+        "lat": 38.05291129
+      },
+      "address": "Charlottesville, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Fluvanna County",
+      "coordinates": {
+        "lng": -78.29823744,
+        "lat": 37.87190208
+      },
+      "address": "Fluvanna County, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Fort Defiance",
+      "coordinates": {
+        "lng": -78.97434468,
+        "lat": 38.24708129
+      },
+      "address": "Fort Defiance, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Heritage (Lynchburg)",
+      "coordinates": {
+        "lng": -79.20679176,
+        "lat": 37.36368535
+      },
+      "address": "Heritage (Lynchburg), Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Liberty (Bedford)",
+      "coordinates": {
+        "lng": -79.49809731,
+        "lat": 37.37163084
+      },
+      "address": "Liberty (Bedford), Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Liberty Christian Academy",
+      "coordinates": {
+        "lng": -79.17206999,
+        "lat": 37.36042762
+      },
+      "address": "Liberty Christian Academy, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Monticello",
+      "coordinates": {
+        "lng": -78.48932616,
+        "lat": 37.99884673
+      },
+      "address": "Monticello, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Rockbridge County",
+      "coordinates": {
+        "lng": -79.42213593,
+        "lat": 37.8018904
+      },
+      "address": "Rockbridge County, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Rustburg",
+      "coordinates": {
+        "lng": -79.08502666,
+        "lat": 37.27659969
+      },
+      "address": "Rustburg, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Spotswood",
+      "coordinates": {
+        "lng": -78.76310224,
+        "lat": 38.37530828
+      },
+      "address": "Spotswood, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Turner Ashby",
+      "coordinates": {
+        "lng": -78.95605727,
+        "lat": 38.39491127
+      },
+      "address": "Turner Ashby, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Waynesboro",
+      "coordinates": {
+        "lng": -78.8977953,
+        "lat": 38.07074519
+      },
+      "address": "Waynesboro, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Western Albemarle",
+      "coordinates": {
+        "lng": -78.70718445,
+        "lat": 38.04729354
+      },
+      "address": "Western Albemarle, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Wilson Memorial",
+      "coordinates": {
+        "lng": -78.98537805,
+        "lat": 38.12123541
+      },
+      "address": "Wilson Memorial, Virginia",
+      "class": "3",
+      "region": "Region 3C",
+      "district": "Shenandoah",
+      "synthetic": false
+    },
+    {
+      "name": "Abingdon",
+      "coordinates": {
+        "lng": -81.95381648,
+        "lat": 36.72059239
+      },
+      "address": "Abingdon, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Mountain 7",
+      "synthetic": false
+    },
+    {
+      "name": "Carroll County",
+      "coordinates": {
+        "lng": -80.72360605,
+        "lat": 36.76218134
+      },
+      "address": "Carroll County, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Three Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Cave Spring",
+      "coordinates": {
+        "lng": -80.00152626,
+        "lat": 37.21314355
+      },
+      "address": "Cave Spring, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Christiansburg",
+      "coordinates": {
+        "lng": -80.41809787,
+        "lat": 37.14526604
+      },
+      "address": "Christiansburg, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Hidden Valley",
+      "coordinates": {
+        "lng": -80.0235844,
+        "lat": 37.22373552
+      },
+      "address": "Hidden Valley, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Lord Botetourt",
+      "coordinates": {
+        "lng": -79.91441102,
+        "lat": 37.40567155
+      },
+      "address": "Lord Botetourt, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Magna Vista",
+      "coordinates": {
+        "lng": -79.8908182,
+        "lat": 36.59266617
+      },
+      "address": "Magna Vista, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Northside",
+      "coordinates": {
+        "lng": -79.99936927,
+        "lat": 37.32897936
+      },
+      "address": "Northside, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Staunton River",
+      "coordinates": {
+        "lng": -79.62279692,
+        "lat": 37.2410819
+      },
+      "address": "Staunton River, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Tunstall",
+      "coordinates": {
+        "lng": -79.52457961,
+        "lat": 36.6693208
+      },
+      "address": "Tunstall, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "William Byrd",
+      "coordinates": {
+        "lng": -79.85852092,
+        "lat": 37.2836599
+      },
+      "address": "William Byrd, Virginia",
+      "class": "3",
+      "region": "Region 3D",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Churchland",
+      "coordinates": {
+        "lng": -76.37181739,
+        "lat": 36.88084195
+      },
+      "address": "Churchland, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Denbigh",
+      "coordinates": {
+        "lng": -76.54805444,
+        "lat": 37.12552867
+      },
+      "address": "Denbigh, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Grafton",
+      "coordinates": {
+        "lng": -76.4695662,
+        "lat": 37.16365997
+      },
+      "address": "Grafton, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Great Bridge",
+      "coordinates": {
+        "lng": -76.24048425,
+        "lat": 36.68935146
+      },
+      "address": "Great Bridge, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Hampton",
+      "coordinates": {
+        "lng": -76.38215623,
+        "lat": 37.02425771
+      },
+      "address": "Hampton, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Heritage (Newport News)",
+      "coordinates": {
+        "lng": -76.42746846,
+        "lat": 37.00620664
+      },
+      "address": "Heritage (Newport News), Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Jamestown",
+      "coordinates": {
+        "lng": -76.7891413,
+        "lat": 37.25207477
+      },
+      "address": "Jamestown, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "King's Fork",
+      "coordinates": {
+        "lng": -76.59353084,
+        "lat": 36.78484915
+      },
+      "address": "King's Fork, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Lake Taylor",
+      "coordinates": {
+        "lng": -76.19867407,
+        "lat": 36.87053023
+      },
+      "address": "Lake Taylor, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Menchville",
+      "coordinates": {
+        "lng": -76.52969217,
+        "lat": 37.09564575
+      },
+      "address": "Menchville, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Smithfield",
+      "coordinates": {
+        "lng": -76.59909989,
+        "lat": 36.94526921
+      },
+      "address": "Smithfield, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Warhill",
+      "coordinates": {
+        "lng": -76.75637178,
+        "lat": 37.33288872
+      },
+      "address": "Warhill, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Bay Rivers",
+      "synthetic": false
+    },
+    {
+      "name": "Warwick",
+      "coordinates": {
+        "lng": -76.47628716,
+        "lat": 37.05232176
+      },
+      "address": "Warwick, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Woodrow Wilson",
+      "coordinates": {
+        "lng": -77.07795714,
+        "lat": 38.9501831
+      },
+      "address": "Woodrow Wilson, Virginia",
+      "class": "4",
+      "region": "Region 4A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Caroline",
+      "coordinates": {
+        "lng": -77.41531003,
+        "lat": 38.00047508
+      },
+      "address": "Caroline, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Chancellor",
+      "coordinates": {
+        "lng": -77.55495173,
+        "lat": 38.27294864
+      },
+      "address": "Chancellor, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Courtland",
+      "coordinates": {
+        "lng": -77.55200969,
+        "lat": 38.23190293
+      },
+      "address": "Courtland, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Dinwiddie",
+      "coordinates": {
+        "lng": -77.58316592,
+        "lat": 37.1136171
+      },
+      "address": "Dinwiddie, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Eastern View",
+      "coordinates": {
+        "lng": -77.94589197,
+        "lat": 38.4768996
+      },
+      "address": "Eastern View, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "George Wythe (Richmond)",
+      "coordinates": {
+        "lng": -77.48311552,
+        "lat": 37.51072024
+      },
+      "address": "George Wythe (Richmond), Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Hanover",
+      "coordinates": {
+        "lng": -77.38401838,
+        "lat": 37.68802281
+      },
+      "address": "Hanover, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Huguenot",
+      "coordinates": {
+        "lng": -77.54131349,
+        "lat": 37.53222255
+      },
+      "address": "Huguenot, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "King George",
+      "coordinates": {
+        "lng": -77.19760303,
+        "lat": 38.27649234
+      },
+      "address": "King George, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Louisa County",
+      "coordinates": {
+        "lng": -77.9210728,
+        "lat": 38.01750871
+      },
+      "address": "Louisa County, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Mechanicsville",
+      "coordinates": {
+        "lng": -77.34008626,
+        "lat": 37.61258161
+      },
+      "address": "Mechanicsville, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Monacan",
+      "coordinates": {
+        "lng": -77.61368311,
+        "lat": 37.47918485
+      },
+      "address": "Monacan, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Orange County",
+      "coordinates": {
+        "lng": -78.09665866,
+        "lat": 38.24539585
+      },
+      "address": "Orange County, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Patrick Henry (Ashland)",
+      "coordinates": {
+        "lng": -77.53375997,
+        "lat": 37.78496806
+      },
+      "address": "Patrick Henry (Ashland), Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Powhatan",
+      "coordinates": {
+        "lng": -77.80239975,
+        "lat": 37.5218552
+      },
+      "address": "Powhatan, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Spotsylvania",
+      "coordinates": {
+        "lng": -77.65312989,
+        "lat": 38.16029886
+      },
+      "address": "Spotsylvania, Virginia",
+      "class": "4",
+      "region": "Region 4B",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Broad Run",
+      "coordinates": {
+        "lng": -77.49203475,
+        "lat": 39.02227582
+      },
+      "address": "Broad Run, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Culpeper County",
+      "coordinates": {
+        "lng": -77.98656343,
+        "lat": 38.49421904
+      },
+      "address": "Culpeper County, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Battlefield",
+      "synthetic": false
+    },
+    {
+      "name": "Dominion",
+      "coordinates": {
+        "lng": -77.37435082,
+        "lat": 39.02647626
+      },
+      "address": "Dominion, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Fauquier",
+      "coordinates": {
+        "lng": -77.81510416,
+        "lat": 38.71919836
+      },
+      "address": "Fauquier, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Heritage (Leesburg)",
+      "coordinates": {
+        "lng": -77.57052991,
+        "lat": 39.08319893
+      },
+      "address": "Heritage (Leesburg), Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Independence",
+      "coordinates": {
+        "lng": -77.55315433,
+        "lat": 38.97702995
+      },
+      "address": "Independence, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "James Wood",
+      "coordinates": {
+        "lng": -78.18321383,
+        "lat": 39.21431094
+      },
+      "address": "James Wood, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "John Handley",
+      "coordinates": {
+        "lng": -78.17572212,
+        "lat": 39.17859868
+      },
+      "address": "John Handley, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Kettle Run",
+      "coordinates": {
+        "lng": -77.68184474,
+        "lat": 38.73182485
+      },
+      "address": "Kettle Run, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Liberty (Bealeton)",
+      "coordinates": {
+        "lng": -77.76582343,
+        "lat": 38.58985202
+      },
+      "address": "Liberty (Bealeton), Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Loudoun County",
+      "coordinates": {
+        "lng": -77.57908336,
+        "lat": 39.11056312
+      },
+      "address": "Loudoun County, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Loudoun Valley",
+      "coordinates": {
+        "lng": -77.70210555,
+        "lat": 39.14075078
+      },
+      "address": "Loudoun Valley, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Millbrook",
+      "coordinates": {
+        "lng": -78.11452877,
+        "lat": 39.19128497
+      },
+      "address": "Millbrook, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Park View (Sterling)",
+      "coordinates": {
+        "lng": -77.39969818,
+        "lat": 39.01488766
+      },
+      "address": "Park View (Sterling), Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Sherando",
+      "coordinates": {
+        "lng": -78.19428974,
+        "lat": 39.07547754
+      },
+      "address": "Sherando, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Northwestern",
+      "synthetic": false
+    },
+    {
+      "name": "Tuscarora",
+      "coordinates": {
+        "lng": -77.55804975,
+        "lat": 39.13271367
+      },
+      "address": "Tuscarora, Virginia",
+      "class": "4",
+      "region": "Region 4C",
+      "district": "Dulles",
+      "synthetic": false
+    },
+    {
+      "name": "Amherst",
+      "coordinates": {
+        "lng": -79.05910531,
+        "lat": 37.57019712
+      },
+      "address": "Amherst, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Bassett",
+      "coordinates": {
+        "lng": -79.96243884,
+        "lat": 36.72777706
+      },
+      "address": "Bassett, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Blacksburg",
+      "coordinates": {
+        "lng": -80.45969839,
+        "lat": 37.21105938
+      },
+      "address": "Blacksburg, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "E.C. Glass",
+      "coordinates": {
+        "lng": -79.16598203,
+        "lat": 37.4083725
+      },
+      "address": "E.C. Glass, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "George Washington",
+      "coordinates": {
+        "lng": -79.41210398,
+        "lat": 36.58627911
+      },
+      "address": "George Washington, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Halifax County",
+      "coordinates": {
+        "lng": -78.90875979,
+        "lat": 36.73126456
+      },
+      "address": "Halifax County, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Piedmont",
+      "synthetic": false
+    },
+    {
+      "name": "Jefferson Forest",
+      "coordinates": {
+        "lng": -79.30294439,
+        "lat": 37.37537226
+      },
+      "address": "Jefferson Forest, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "Seminole",
+      "synthetic": false
+    },
+    {
+      "name": "Pulaski County",
+      "coordinates": {
+        "lng": -80.71770259,
+        "lat": 37.09378033
+      },
+      "address": "Pulaski County, Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Salem (Salem)",
+      "coordinates": {
+        "lng": -80.07919916,
+        "lat": 37.29521912
+      },
+      "address": "Salem (Salem), Virginia",
+      "class": "4",
+      "region": "Region 4D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Bayside",
+      "coordinates": {
+        "lng": -76.15008972,
+        "lat": 36.86937586
+      },
+      "address": "Bayside, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Deep Creek",
+      "coordinates": {
+        "lng": -76.35178797,
+        "lat": 36.75400594
+      },
+      "address": "Deep Creek, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "First Colonial",
+      "coordinates": {
+        "lng": -76.03025419,
+        "lat": 36.87383906
+      },
+      "address": "First Colonial, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Frank W. Cox",
+      "coordinates": {
+        "lng": -76.0520018,
+        "lat": 36.8867179
+      },
+      "address": "Frank W. Cox, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Gloucester",
+      "coordinates": {
+        "lng": -76.52537773,
+        "lat": 37.3821479
+      },
+      "address": "Gloucester, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Granby",
+      "coordinates": {
+        "lng": -76.27680199,
+        "lat": 36.90712494
+      },
+      "address": "Granby, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Green Run",
+      "coordinates": {
+        "lng": -76.11211271,
+        "lat": 36.80427978
+      },
+      "address": "Green Run, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Hickory",
+      "coordinates": {
+        "lng": -76.21645904,
+        "lat": 36.64837473
+      },
+      "address": "Hickory, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Indian River",
+      "coordinates": {
+        "lng": -76.24273442,
+        "lat": 36.79762406
+      },
+      "address": "Indian River, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Kecoughtan",
+      "coordinates": {
+        "lng": -76.31775861,
+        "lat": 37.05499094
+      },
+      "address": "Kecoughtan, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Kempsville",
+      "coordinates": {
+        "lng": -76.15793596,
+        "lat": 36.82115324
+      },
+      "address": "Kempsville, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Maury",
+      "coordinates": {
+        "lng": -76.29083289,
+        "lat": 36.86500105
+      },
+      "address": "Maury, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Nansemond River",
+      "coordinates": {
+        "lng": -76.51786361,
+        "lat": 36.80169712
+      },
+      "address": "Nansemond River, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Norview",
+      "coordinates": {
+        "lng": -76.23964286,
+        "lat": 36.90035959
+      },
+      "address": "Norview, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Eastern",
+      "synthetic": false
+    },
+    {
+      "name": "Princess Anne",
+      "coordinates": {
+        "lng": -76.12735648,
+        "lat": 36.84442728
+      },
+      "address": "Princess Anne, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Salem (Virginia Beach)",
+      "coordinates": {
+        "lng": -76.14297254,
+        "lat": 36.78296517
+      },
+      "address": "Salem (Virginia Beach), Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Woodside",
+      "coordinates": {
+        "lng": -76.52438092,
+        "lat": 37.17286682
+      },
+      "address": "Woodside, Virginia",
+      "class": "5",
+      "region": "Region 5A",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Atlee",
+      "coordinates": {
+        "lng": -77.4104218,
+        "lat": 37.66499457
+      },
+      "address": "Atlee, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Bethel",
+      "coordinates": {
+        "lng": -76.42927799,
+        "lat": 37.05340441
+      },
+      "address": "Bethel, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Peninsula",
+      "synthetic": false
+    },
+    {
+      "name": "Clover Hill",
+      "coordinates": {
+        "lng": -77.64070587,
+        "lat": 37.4486458
+      },
+      "address": "Clover Hill, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Deep Run",
+      "coordinates": {
+        "lng": -77.59949387,
+        "lat": 37.6750893
+      },
+      "address": "Deep Run, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Douglas S. Freeman",
+      "coordinates": {
+        "lng": -77.55815032,
+        "lat": 37.60206283
+      },
+      "address": "Douglas S. Freeman, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Glen Allen",
+      "coordinates": {
+        "lng": -77.53483431,
+        "lat": 37.66581948
+      },
+      "address": "Glen Allen, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Henrico",
+      "coordinates": {
+        "lng": -77.43248016,
+        "lat": 37.60326031
+      },
+      "address": "Henrico, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "J.R. Tucker",
+      "coordinates": {
+        "lng": -77.54694214,
+        "lat": 37.62913967
+      },
+      "address": "J.R. Tucker, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "L.C. Bird",
+      "coordinates": {
+        "lng": -77.4946109,
+        "lat": 37.38842597
+      },
+      "address": "L.C. Bird, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Manchester",
+      "coordinates": {
+        "lng": -77.62317168,
+        "lat": 37.40745978
+      },
+      "address": "Manchester, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Matoaca",
+      "coordinates": {
+        "lng": -77.4679285,
+        "lat": 37.27715967
+      },
+      "address": "Matoaca, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Meadowbrook",
+      "coordinates": {
+        "lng": -77.48407709,
+        "lat": 37.43582905
+      },
+      "address": "Meadowbrook, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Midlothian",
+      "coordinates": {
+        "lng": -77.66068874,
+        "lat": 37.49612209
+      },
+      "address": "Midlothian, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Mills E. Godwin",
+      "coordinates": {
+        "lng": -77.60511245,
+        "lat": 37.61941836
+      },
+      "address": "Mills E. Godwin, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Prince George",
+      "coordinates": {
+        "lng": -77.26525158,
+        "lat": 37.20657787
+      },
+      "address": "Prince George, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Varina",
+      "coordinates": {
+        "lng": -77.37755599,
+        "lat": 37.47291955
+      },
+      "address": "Varina, Virginia",
+      "class": "5",
+      "region": "Region 5B",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "Briar Woods",
+      "coordinates": {
+        "lng": -77.53019293,
+        "lat": 38.9924651
+      },
+      "address": "Briar Woods, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Freedom (South Riding)",
+      "coordinates": {
+        "lng": -77.53581232,
+        "lat": 38.91397009
+      },
+      "address": "Freedom (South Riding), Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Hermitage",
+      "coordinates": {
+        "lng": -77.51707068,
+        "lat": 37.63276046
+      },
+      "address": "Hermitage, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Colonial",
+      "synthetic": false
+    },
+    {
+      "name": "Highland Springs",
+      "coordinates": {
+        "lng": -77.3241575,
+        "lat": 37.54017112
+      },
+      "address": "Highland Springs, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Capital",
+      "synthetic": false
+    },
+    {
+      "name": "John R. Lewis",
+      "coordinates": {
+        "lng": -77.17019923,
+        "lat": 38.78070412
+      },
+      "address": "John R. Lewis, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "Potomac Falls",
+      "coordinates": {
+        "lng": -77.39050785,
+        "lat": 39.05160846
+      },
+      "address": "Potomac Falls, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Riverside",
+      "coordinates": {
+        "lng": -77.48936082,
+        "lat": 39.09172311
+      },
+      "address": "Riverside, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Rock Ridge",
+      "coordinates": {
+        "lng": -77.50003104,
+        "lat": 38.97740019
+      },
+      "address": "Rock Ridge, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Stone Bridge",
+      "coordinates": {
+        "lng": -77.50920705,
+        "lat": 39.04839345
+      },
+      "address": "Stone Bridge, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Thomas Jefferson S&T",
+      "coordinates": {
+        "lng": -77.16820514,
+        "lat": 38.8182827
+      },
+      "address": "Thomas Jefferson S&T, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "Woodgrove",
+      "coordinates": {
+        "lng": -77.72637445,
+        "lat": 39.15441713
+      },
+      "address": "Woodgrove, Virginia",
+      "class": "5",
+      "region": "Region 5C",
+      "district": "Potomac",
+      "synthetic": false
+    },
+    {
+      "name": "Albemarle",
+      "coordinates": {
+        "lng": -78.50004379,
+        "lat": 38.07507306
+      },
+      "address": "Albemarle, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Jefferson",
+      "synthetic": false
+    },
+    {
+      "name": "Brooke Point",
+      "coordinates": {
+        "lng": -77.39582955,
+        "lat": 38.40626251
+      },
+      "address": "Brooke Point, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "Harrisonburg",
+      "coordinates": {
+        "lng": -78.90926971,
+        "lat": 38.44217641
+      },
+      "address": "Harrisonburg, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Valley",
+      "synthetic": false
+    },
+    {
+      "name": "Mountain View",
+      "coordinates": {
+        "lng": -78.66370116,
+        "lat": 38.70380028
+      },
+      "address": "Mountain View, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "North Stafford",
+      "coordinates": {
+        "lng": -77.45591353,
+        "lat": 38.46731857
+      },
+      "address": "North Stafford, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "Patrick Henry (Roanoke)",
+      "coordinates": {
+        "lng": -79.98362642,
+        "lat": 37.2560269
+      },
+      "address": "Patrick Henry (Roanoke), Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "River Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Stafford",
+      "coordinates": {
+        "lng": -77.46328754,
+        "lat": 38.36024263
+      },
+      "address": "Stafford, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "William Fleming",
+      "coordinates": {
+        "lng": -79.98299567,
+        "lat": 37.30956829
+      },
+      "address": "William Fleming, Virginia",
+      "class": "5",
+      "region": "Region 5D",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Cosby",
+      "coordinates": {
+        "lng": -77.70228405,
+        "lat": 37.40586278
+      },
+      "address": "Cosby, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Floyd E. Kellam",
+      "coordinates": {
+        "lng": -76.06232061,
+        "lat": 36.74362326
+      },
+      "address": "Floyd E. Kellam, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Franklin County",
+      "coordinates": {
+        "lng": -79.87758334,
+        "lat": 37.00443861
+      },
+      "address": "Franklin County, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Blue Ridge",
+      "synthetic": false
+    },
+    {
+      "name": "Grassfield",
+      "coordinates": {
+        "lng": -76.3184493,
+        "lat": 36.71375727
+      },
+      "address": "Grassfield, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "James River (Midlothian)",
+      "coordinates": {
+        "lng": -77.64982851,
+        "lat": 37.55289785
+      },
+      "address": "James River (Midlothian), Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Dominion",
+      "synthetic": false
+    },
+    {
+      "name": "Landstown",
+      "coordinates": {
+        "lng": -76.10013663,
+        "lat": 36.779975
+      },
+      "address": "Landstown, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Ocean Lakes",
+      "coordinates": {
+        "lng": -75.98147267,
+        "lat": 36.77222408
+      },
+      "address": "Ocean Lakes, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Oscar Smith",
+      "coordinates": {
+        "lng": -76.25612762,
+        "lat": 36.74024508
+      },
+      "address": "Oscar Smith, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Tallwood",
+      "coordinates": {
+        "lng": -76.18218987,
+        "lat": 36.78496086
+      },
+      "address": "Tallwood, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Beach",
+      "synthetic": false
+    },
+    {
+      "name": "Thomas Dale",
+      "coordinates": {
+        "lng": -77.43606796,
+        "lat": 37.36097739
+      },
+      "address": "Thomas Dale, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Central",
+      "synthetic": false
+    },
+    {
+      "name": "Western Branch",
+      "coordinates": {
+        "lng": -76.40802946,
+        "lat": 36.8478922
+      },
+      "address": "Western Branch, Virginia",
+      "class": "6",
+      "region": "Region 6A",
+      "district": "Southeastern",
+      "synthetic": false
+    },
+    {
+      "name": "Battlefield",
+      "coordinates": {
+        "lng": -77.63060074,
+        "lat": 38.84491046
+      },
+      "address": "Battlefield, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "C.D. Hylton",
+      "coordinates": {
+        "lng": -77.38524991,
+        "lat": 38.64967165
+      },
+      "address": "C.D. Hylton, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Charles J. Colgan",
+      "coordinates": {
+        "lng": -77.43881306,
+        "lat": 38.65363548
+      },
+      "address": "Charles J. Colgan, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Colonial Forge",
+      "coordinates": {
+        "lng": -77.45122297,
+        "lat": 38.43514725
+      },
+      "address": "Colonial Forge, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "Forest Park",
+      "coordinates": {
+        "lng": -77.36502966,
+        "lat": 38.61186785
+      },
+      "address": "Forest Park, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Freedom (Woodbridge)",
+      "coordinates": {
+        "lng": -77.28846167,
+        "lat": 38.6221343
+      },
+      "address": "Freedom (Woodbridge), Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Gar-Field",
+      "coordinates": {
+        "lng": -77.30337335,
+        "lat": 38.64552971
+      },
+      "address": "Gar-Field, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "John Champe",
+      "coordinates": {
+        "lng": -77.56659527,
+        "lat": 38.93218094
+      },
+      "address": "John Champe, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "Massaponax",
+      "coordinates": {
+        "lng": -77.51177705,
+        "lat": 38.18254081
+      },
+      "address": "Massaponax, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "Osbourn",
+      "coordinates": {
+        "lng": -77.46830338,
+        "lat": 38.74750585
+      },
+      "address": "Osbourn, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "Osbourn Park",
+      "coordinates": {
+        "lng": -77.44953999,
+        "lat": 38.76381116
+      },
+      "address": "Osbourn Park, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "Patriot",
+      "coordinates": {
+        "lng": -77.57961612,
+        "lat": 38.72637147
+      },
+      "address": "Patriot, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "Potomac",
+      "coordinates": {
+        "lng": -77.30823758,
+        "lat": 38.59689505
+      },
+      "address": "Potomac, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Riverbend",
+      "coordinates": {
+        "lng": -77.57572965,
+        "lat": 38.29489272
+      },
+      "address": "Riverbend, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Commonwealth",
+      "synthetic": false
+    },
+    {
+      "name": "Unity Reed",
+      "coordinates": {
+        "lng": -77.5080201,
+        "lat": 38.765176
+      },
+      "address": "Unity Reed, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cedar Run",
+      "synthetic": false
+    },
+    {
+      "name": "Woodbridge",
+      "coordinates": {
+        "lng": -77.30204767,
+        "lat": 38.68076088
+      },
+      "address": "Woodbridge, Virginia",
+      "class": "6",
+      "region": "Region 6B",
+      "district": "Cardinal",
+      "synthetic": false
+    },
+    {
+      "name": "Annandale",
+      "coordinates": {
+        "lng": -77.20765313,
+        "lat": 38.82238643
+      },
+      "address": "Annandale, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Gunston",
+      "synthetic": false
+    },
+    {
+      "name": "Fairfax",
+      "coordinates": {
+        "lng": -77.28540835,
+        "lat": 38.86016406
+      },
+      "address": "Fairfax, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "Falls Church",
+      "coordinates": {
+        "lng": -77.20711006,
+        "lat": 38.86246868
+      },
+      "address": "Falls Church, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "Hayfield",
+      "coordinates": {
+        "lng": -77.14344006,
+        "lat": 38.75023536
+      },
+      "address": "Hayfield, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Gunston",
+      "synthetic": false
+    },
+    {
+      "name": "James Robinson",
+      "coordinates": {
+        "lng": -77.3034603,
+        "lat": 38.81688296
+      },
+      "address": "James Robinson, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "Justice",
+      "coordinates": {
+        "lng": -77.15021453,
+        "lat": 38.85681096
+      },
+      "address": "Justice, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "Lake Braddock",
+      "coordinates": {
+        "lng": -77.26528369,
+        "lat": 38.80339247
+      },
+      "address": "Lake Braddock, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "Mount Vernon",
+      "coordinates": {
+        "lng": -77.09227975,
+        "lat": 38.72717853
+      },
+      "address": "Mount Vernon, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Gunston",
+      "synthetic": false
+    },
+    {
+      "name": "South County",
+      "coordinates": {
+        "lng": -77.23845834,
+        "lat": 38.71771142
+      },
+      "address": "South County, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "T.C. Williams",
+      "coordinates": {
+        "lng": -77.0844416,
+        "lat": 38.82461443
+      },
+      "address": "T.C. Williams, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Gunston",
+      "synthetic": false
+    },
+    {
+      "name": "Thomas Edison",
+      "coordinates": {
+        "lng": -77.13352053,
+        "lat": 38.78332514
+      },
+      "address": "Thomas Edison, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "W.T. Woodson",
+      "coordinates": {
+        "lng": -77.27635789,
+        "lat": 38.84065948
+      },
+      "address": "W.T. Woodson, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "West Potomac",
+      "coordinates": {
+        "lng": -77.07211031,
+        "lat": 38.77475061
+      },
+      "address": "West Potomac, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Gunston",
+      "synthetic": false
+    },
+    {
+      "name": "West Springfield",
+      "coordinates": {
+        "lng": -77.23954647,
+        "lat": 38.7851005
+      },
+      "address": "West Springfield, Virginia",
+      "class": "6",
+      "region": "Region 6C",
+      "district": "Patriot",
+      "synthetic": false
+    },
+    {
+      "name": "Centreville",
+      "coordinates": {
+        "lng": -77.41146642,
+        "lat": 38.82528139
+      },
+      "address": "Centreville, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Concorde",
+      "synthetic": false
+    },
+    {
+      "name": "Chantilly",
+      "coordinates": {
+        "lng": -77.40732381,
+        "lat": 38.88034318
+      },
+      "address": "Chantilly, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Concorde",
+      "synthetic": false
+    },
+    {
+      "name": "George C. Marshall",
+      "coordinates": {
+        "lng": -77.2119927,
+        "lat": 38.90559951
+      },
+      "address": "George C. Marshall, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "Herndon",
+      "coordinates": {
+        "lng": -77.37518908,
+        "lat": 38.98557678
+      },
+      "address": "Herndon, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "James Madison",
+      "coordinates": {
+        "lng": -77.27876002,
+        "lat": 38.89578639
+      },
+      "address": "James Madison, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Concorde",
+      "synthetic": false
+    },
+    {
+      "name": "Langley",
+      "coordinates": {
+        "lng": -77.16763026,
+        "lat": 38.94978882
+      },
+      "address": "Langley, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "McLean",
+      "coordinates": {
+        "lng": -77.18445563,
+        "lat": 38.92360937
+      },
+      "address": "McLean, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "Oakton",
+      "coordinates": {
+        "lng": -77.28198791,
+        "lat": 38.87760807
+      },
+      "address": "Oakton, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Concorde",
+      "synthetic": false
+    },
+    {
+      "name": "South Lakes",
+      "coordinates": {
+        "lng": -77.33868783,
+        "lat": 38.93247979
+      },
+      "address": "South Lakes, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "Wakefield",
+      "coordinates": {
+        "lng": -77.11138598,
+        "lat": 38.84729694
+      },
+      "address": "Wakefield, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "National",
+      "synthetic": false
+    },
+    {
+      "name": "Washington-Liberty",
+      "coordinates": {
+        "lng": -77.1097694,
+        "lat": 38.8881228
+      },
+      "address": "Washington-Liberty, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    },
+    {
+      "name": "Westfield",
+      "coordinates": {
+        "lng": -77.46383595,
+        "lat": 38.88551007
+      },
+      "address": "Westfield, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Concorde",
+      "synthetic": false
+    },
+    {
+      "name": "Yorktown",
+      "coordinates": {
+        "lng": -77.13995536,
+        "lat": 38.90330522
+      },
+      "address": "Yorktown, Virginia",
+      "class": "6",
+      "region": "Region 6D",
+      "district": "Liberty",
+      "synthetic": false
+    }
+  ]
+}

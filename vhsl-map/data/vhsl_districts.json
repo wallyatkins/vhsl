@@ -1,0 +1,581 @@
+{
+  "districts": [
+    {
+      "id": "battlefield",
+      "name": "Battlefield",
+      "schools": [
+        "James Monroe",
+        "Caroline",
+        "Chancellor",
+        "Courtland",
+        "Eastern View",
+        "King George",
+        "Spotsylvania",
+        "Culpeper County"
+      ]
+    },
+    {
+      "id": "bay_rivers",
+      "name": "Bay Rivers",
+      "schools": [
+        "Bruton",
+        "Poquoson",
+        "Lafayette",
+        "New Kent",
+        "Tabb",
+        "York",
+        "Grafton",
+        "Jamestown",
+        "Smithfield",
+        "Warhill"
+      ]
+    },
+    {
+      "id": "beach",
+      "name": "Beach",
+      "schools": [
+        "Bayside",
+        "First Colonial",
+        "Frank W. Cox",
+        "Green Run",
+        "Kempsville",
+        "Princess Anne",
+        "Salem (Virginia Beach)",
+        "Floyd E. Kellam",
+        "Landstown",
+        "Ocean Lakes",
+        "Tallwood"
+      ]
+    },
+    {
+      "id": "black_diamond",
+      "name": "Black Diamond",
+      "schools": [
+        "Council",
+        "Grundy",
+        "Haysi",
+        "Honaker",
+        "Hurley",
+        "Twin Valley"
+      ]
+    },
+    {
+      "id": "blue_ridge",
+      "name": "Blue Ridge",
+      "schools": [
+        "Lord Botetourt",
+        "Northside",
+        "Staunton River",
+        "William Byrd",
+        "William Fleming",
+        "Franklin County"
+      ]
+    },
+    {
+      "id": "bull_run",
+      "name": "Bull Run",
+      "schools": [
+        "Rappahannock County",
+        "Clarke County",
+        "East Rockingham",
+        "Luray",
+        "Madison County",
+        "Page County",
+        "Mountain View (Stonewall Jackson)",
+        "Strasburg"
+      ]
+    },
+    {
+      "id": "capital",
+      "name": "Capital",
+      "schools": [
+        "Armstrong",
+        "Hanover",
+        "Mechanicsville",
+        "Patrick Henry (Ashland)",
+        "Atlee",
+        "Henrico",
+        "Varina",
+        "Highland Springs"
+      ]
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal",
+      "schools": [
+        "C.D. Hylton",
+        "Charles J. Colgan",
+        "Forest Park",
+        "Freedom (Woodbridge)",
+        "Gar-Field",
+        "Potomac",
+        "Woodbridge"
+      ]
+    },
+    {
+      "id": "cedar_run",
+      "name": "Cedar Run",
+      "schools": [
+        "Battlefield",
+        "John Champe",
+        "Osbourn",
+        "Osbourn Park",
+        "Patriot",
+        "Unity Reed"
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "schools": [
+        "Colonial Heights",
+        "Hopewell",
+        "Petersburg",
+        "Dinwiddie",
+        "Matoaca",
+        "Meadowbrook",
+        "Prince George",
+        "Thomas Dale"
+      ]
+    },
+    {
+      "id": "colonial",
+      "name": "Colonial",
+      "schools": [
+        "John Marshall",
+        "Thomas Jefferson (Richmond)",
+        "Maggie Walker Governor's School",
+        "Deep Run",
+        "Douglas S. Freeman",
+        "Glen Allen",
+        "J.R. Tucker",
+        "Mills E. Godwin",
+        "Hermitage"
+      ]
+    },
+    {
+      "id": "commonwealth",
+      "name": "Commonwealth",
+      "schools": [
+        "Brooke Point",
+        "Mountain View",
+        "North Stafford",
+        "Stafford",
+        "Colonial Forge",
+        "Massaponax",
+        "Riverbend"
+      ]
+    },
+    {
+      "id": "concorde",
+      "name": "Concorde",
+      "schools": [
+        "Centreville",
+        "Chantilly",
+        "James Madison",
+        "Oakton",
+        "Westfield"
+      ]
+    },
+    {
+      "id": "cumberland",
+      "name": "Cumberland",
+      "schools": [
+        "Castlewood",
+        "Eastside",
+        "J.I. Burton",
+        "Rye Cove",
+        "Thomas Walker",
+        "Twin Springs"
+      ]
+    },
+    {
+      "id": "dogwood",
+      "name": "Dogwood",
+      "schools": [
+        "Altavista",
+        "Galileo Magnet",
+        "William Campbell",
+        "Appomattox",
+        "Chatham",
+        "Dan River",
+        "Gretna",
+        "Nelson County"
+      ]
+    },
+    {
+      "id": "dominion",
+      "name": "Dominion",
+      "schools": [
+        "George Wythe (Richmond)",
+        "Huguenot",
+        "Monacan",
+        "Powhatan",
+        "Clover Hill",
+        "L.C. Bird",
+        "Manchester",
+        "Midlothian",
+        "Cosby",
+        "James River (Midlothian)"
+      ]
+    },
+    {
+      "id": "dulles",
+      "name": "Dulles",
+      "schools": [
+        "Lightridge",
+        "Broad Run",
+        "Dominion",
+        "Heritage (Leesburg)",
+        "Independence",
+        "Loudoun County",
+        "Loudoun Valley",
+        "Park View (Sterling)",
+        "Tuscarora"
+      ]
+    },
+    {
+      "id": "eastern",
+      "name": "Eastern",
+      "schools": [
+        "Booker T. Washington",
+        "I.C. Norcom",
+        "Churchland",
+        "Lake Taylor",
+        "Woodrow Wilson",
+        "Granby",
+        "Maury",
+        "Norview"
+      ]
+    },
+    {
+      "id": "eastern_shore",
+      "name": "Eastern Shore",
+      "schools": [
+        "Chincoteague",
+        "Northampton",
+        "Arcadia",
+        "Nandua"
+      ]
+    },
+    {
+      "id": "gunston",
+      "name": "Gunston",
+      "schools": [
+        "Annandale",
+        "Hayfield",
+        "Mount Vernon",
+        "T.C. Williams",
+        "West Potomac"
+      ]
+    },
+    {
+      "id": "hogoheegee",
+      "name": "Hogoheegee",
+      "schools": [
+        "Chilhowie",
+        "Holston",
+        "Northwood",
+        "Patrick Henry (Glade Spring)",
+        "Rural Retreat"
+      ]
+    },
+    {
+      "id": "james_river",
+      "name": "James River",
+      "schools": [
+        "Central (Lunenburg)",
+        "Cumberland",
+        "Amelia",
+        "Bluestone",
+        "Nottoway",
+        "Prince Edward",
+        "Randolph-Henry",
+        "Buckingham County"
+      ]
+    },
+    {
+      "id": "jefferson",
+      "name": "Jefferson",
+      "schools": [
+        "Goochland",
+        "Charlottesville",
+        "Fluvanna County",
+        "Monticello",
+        "Western Albemarle",
+        "Louisa County",
+        "Orange County",
+        "Albemarle"
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "schools": [
+        "George C. Marshall",
+        "Herndon",
+        "Langley",
+        "McLean",
+        "South Lakes",
+        "Washington-Liberty",
+        "Yorktown"
+      ]
+    },
+    {
+      "id": "mountain_7",
+      "name": "Mountain 7",
+      "schools": [
+        "Central (Wise)",
+        "Gate City",
+        "John Battle",
+        "Lee",
+        "Ridgeview",
+        "Union",
+        "Abingdon"
+      ]
+    },
+    {
+      "id": "mountain_empire",
+      "name": "Mountain Empire",
+      "schools": [
+        "Auburn",
+        "Bland County",
+        "Fort Chiswell",
+        "Galax",
+        "George Wythe (Wytheville)",
+        "Grayson County"
+      ]
+    },
+    {
+      "id": "national",
+      "name": "National",
+      "schools": [
+        "John R. Lewis",
+        "Thomas Jefferson S&T",
+        "Falls Church",
+        "Justice",
+        "Thomas Edison",
+        "Wakefield"
+      ]
+    },
+    {
+      "id": "northern_neck",
+      "name": "Northern Neck",
+      "schools": [
+        "Colonial Beach",
+        "Essex",
+        "Lancaster",
+        "Northumberland",
+        "Rappahannock",
+        "Washington & Lee"
+      ]
+    },
+    {
+      "id": "northwestern",
+      "name": "Northwestern",
+      "schools": [
+        "Brentsville District",
+        "Central (Woodstock)",
+        "George Mason (Meridian)",
+        "Manassas Park",
+        "Skyline",
+        "Warren County",
+        "William Monroe",
+        "Fauquier",
+        "James Wood",
+        "John Handley",
+        "Kettle Run",
+        "Liberty (Bealeton)",
+        "Millbrook",
+        "Sherando"
+      ]
+    },
+    {
+      "id": "patriot",
+      "name": "Patriot",
+      "schools": [
+        "Fairfax",
+        "James Robinson",
+        "Lake Braddock",
+        "South County",
+        "W.T. Woodson",
+        "West Springfield"
+      ]
+    },
+    {
+      "id": "peninsula",
+      "name": "Peninsula",
+      "schools": [
+        "Phoebus",
+        "Denbigh",
+        "Hampton",
+        "Heritage (Newport News)",
+        "Menchville",
+        "Warwick",
+        "Gloucester",
+        "Kecoughtan",
+        "Woodside",
+        "Bethel"
+      ]
+    },
+    {
+      "id": "piedmont",
+      "name": "Piedmont",
+      "schools": [
+        "Patrick County",
+        "Martinsville",
+        "Magna Vista",
+        "Tunstall",
+        "Bassett",
+        "George Washington",
+        "Halifax County"
+      ]
+    },
+    {
+      "id": "pioneer",
+      "name": "Pioneer",
+      "schools": [
+        "Bath County",
+        "Covington",
+        "Craig County",
+        "Eastern Montgomery",
+        "Highland County",
+        "Narrows",
+        "Parry McCluer"
+      ]
+    },
+    {
+      "id": "potomac",
+      "name": "Potomac",
+      "schools": [
+        "Briar Woods",
+        "Freedom (South Riding)",
+        "Potomac Falls",
+        "Riverside",
+        "Rock Ridge",
+        "Stone Bridge",
+        "Woodgrove"
+      ]
+    },
+    {
+      "id": "river_ridge",
+      "name": "River Ridge",
+      "schools": [
+        "Cave Spring",
+        "Christiansburg",
+        "Hidden Valley",
+        "Blacksburg",
+        "Pulaski County",
+        "Salem (Salem)",
+        "Patrick Henry (Roanoke)"
+      ]
+    },
+    {
+      "id": "seminole",
+      "name": "Seminole",
+      "schools": [
+        "Brookville",
+        "Heritage (Lynchburg)",
+        "Liberty (Bedford)",
+        "Liberty Christian Academy",
+        "Rustburg",
+        "Amherst",
+        "E.C. Glass",
+        "Jefferson Forest"
+      ]
+    },
+    {
+      "id": "shenandoah",
+      "name": "Shenandoah",
+      "schools": [
+        "Riverheads",
+        "Buffalo Gap",
+        "Staunton",
+        "Stuarts Draft",
+        "Fort Defiance",
+        "Wilson Memorial"
+      ]
+    },
+    {
+      "id": "southeastern",
+      "name": "Southeastern",
+      "schools": [
+        "Lakeland",
+        "Great Bridge",
+        "King's Fork",
+        "Deep Creek",
+        "Hickory",
+        "Indian River",
+        "Nansemond River",
+        "Grassfield",
+        "Oscar Smith",
+        "Western Branch"
+      ]
+    },
+    {
+      "id": "southwest",
+      "name": "Southwest",
+      "schools": [
+        "Graham",
+        "Lebanon",
+        "Marion Senior",
+        "Richlands",
+        "Tazewell",
+        "Virginia"
+      ]
+    },
+    {
+      "id": "three_rivers",
+      "name": "Three Rivers",
+      "schools": [
+        "Alleghany",
+        "Floyd County",
+        "Giles",
+        "Glenvar",
+        "James River (Buchanan)",
+        "Radford",
+        "Carroll County"
+      ]
+    },
+    {
+      "id": "tidewater",
+      "name": "Tidewater",
+      "schools": [
+        "Charles City",
+        "King & Queen",
+        "Mathews",
+        "Middlesex",
+        "West Point",
+        "Carver College & Career Academy",
+        "King William"
+      ]
+    },
+    {
+      "id": "tri-rivers",
+      "name": "Tri-Rivers",
+      "schools": [
+        "Appomattox Regional Governors School",
+        "Franklin",
+        "Surry County",
+        "Sussex",
+        "Brunswick",
+        "Greensville County",
+        "Windsor",
+        "Park View (South Hill)",
+        "Southampton"
+      ]
+    },
+    {
+      "id": "valley",
+      "name": "Valley",
+      "schools": [
+        "Broadway",
+        "Rockbridge County",
+        "Spotswood",
+        "Turner Ashby",
+        "Waynesboro",
+        "Harrisonburg"
+      ]
+    }
+  ]
+}

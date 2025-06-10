@@ -1,0 +1,1984 @@
+{
+  "schools": [
+    {
+      "name": "James River (Midlo.)",
+      "coordinates": {
+        "lat": 38.501571587900955,
+        "lng": -75.23703710378204
+      },
+      "address": "James River (Midlo.), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Gar-Field",
+      "coordinates": {
+        "lat": 38.052666196425896,
+        "lng": -79.40172951089
+      },
+      "address": "Gar-Field, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Centreville",
+      "coordinates": {
+        "lat": 37.722906051130245,
+        "lng": -82.3530845232019
+      },
+      "address": "Centreville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Gloucester",
+      "coordinates": {
+        "lat": 39.2693276608025,
+        "lng": -82.97168696641793
+      },
+      "address": "Gloucester, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Colonial Forge",
+      "coordinates": {
+        "lat": 37.931698528584306,
+        "lng": -79.60455152808943
+      },
+      "address": "Colonial Forge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Woodgrove",
+      "coordinates": {
+        "lat": 38.32190521356984,
+        "lng": -80.0208474052852
+      },
+      "address": "Woodgrove, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Southampton",
+      "coordinates": {
+        "lat": 36.63975212980394,
+        "lng": -80.24676120915939
+      },
+      "address": "Southampton, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lake Taylor",
+      "coordinates": {
+        "lat": 39.22221562477192,
+        "lng": -77.62389331118594
+      },
+      "address": "Lake Taylor, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Broad Run",
+      "coordinates": {
+        "lat": 39.10935858605188,
+        "lng": -78.13655207888618
+      },
+      "address": "Broad Run, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Glen Allen",
+      "coordinates": {
+        "lat": 37.03417113572082,
+        "lng": -75.36395869130516
+      },
+      "address": "Glen Allen, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Granby",
+      "coordinates": {
+        "lat": 37.87187297666566,
+        "lng": -83.10026497782563
+      },
+      "address": "Granby, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Amherst",
+      "coordinates": {
+        "lat": 39.11934926434976,
+        "lng": -76.23308474942196
+      },
+      "address": "Amherst, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Loudoun County",
+      "coordinates": {
+        "lat": 39.21070339599481,
+        "lng": -77.34314606917061
+      },
+      "address": "Loudoun County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Tallwood",
+      "coordinates": {
+        "lat": 39.182843609255656,
+        "lng": -76.85786490656274
+      },
+      "address": "Tallwood, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "West Springfield",
+      "coordinates": {
+        "lat": 39.38834071128627,
+        "lng": -83.56155687825085
+      },
+      "address": "West Springfield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "William Byrd",
+      "coordinates": {
+        "lat": 39.4390591091311,
+        "lng": -82.38262067579115
+      },
+      "address": "William Byrd, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Meadowbrook",
+      "coordinates": {
+        "lat": 37.49992509457316,
+        "lng": -77.639786435634
+      },
+      "address": "Meadowbrook, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "William Fleming",
+      "coordinates": {
+        "lat": 36.81380649299481,
+        "lng": -75.53401638459631
+      },
+      "address": "William Fleming, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "West Potomac",
+      "coordinates": {
+        "lat": 39.01573492139954,
+        "lng": -79.96449764074626
+      },
+      "address": "West Potomac, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Indian River",
+      "coordinates": {
+        "lat": 37.85385404938159,
+        "lng": -82.73115228240655
+      },
+      "address": "Indian River, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Unity Reed",
+      "coordinates": {
+        "lat": 37.721661439544185,
+        "lng": -77.82192613124084
+      },
+      "address": "Unity Reed, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Fauquier",
+      "coordinates": {
+        "lat": 38.51730851916373,
+        "lng": -80.53259589221813
+      },
+      "address": "Fauquier, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Brentsville",
+      "coordinates": {
+        "lat": 36.53772086560134,
+        "lng": -77.95829092371514
+      },
+      "address": "Brentsville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Fort Defiance",
+      "coordinates": {
+        "lat": 36.720938351903925,
+        "lng": -79.76322363071003
+      },
+      "address": "Fort Defiance, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Falls Church",
+      "coordinates": {
+        "lat": 36.80091147444984,
+        "lng": -79.84688585412077
+      },
+      "address": "Falls Church, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Carroll County",
+      "coordinates": {
+        "lat": 39.228411233766714,
+        "lng": -80.28514097720216
+      },
+      "address": "Carroll County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Prince George",
+      "coordinates": {
+        "lat": 36.599669125244,
+        "lng": -77.75672393186785
+      },
+      "address": "Prince George, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Frank Cox",
+      "coordinates": {
+        "lat": 38.82055379149972,
+        "lng": -76.40768393541792
+      },
+      "address": "Frank Cox, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Potomac",
+      "coordinates": {
+        "lat": 37.58133947790599,
+        "lng": -78.71986647701661
+      },
+      "address": "Potomac, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "James Robinson",
+      "coordinates": {
+        "lat": 39.06583009685049,
+        "lng": -80.46387242929033
+      },
+      "address": "James Robinson, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Varina",
+      "coordinates": {
+        "lat": 37.27593751834838,
+        "lng": -81.61854794525779
+      },
+      "address": "Varina, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Riverbend",
+      "coordinates": {
+        "lat": 36.56274243985537,
+        "lng": -79.8658567214534
+      },
+      "address": "Riverbend, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Manassas Park",
+      "coordinates": {
+        "lat": 36.925461005839416,
+        "lng": -76.31781669084182
+      },
+      "address": "Manassas Park, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Meridian",
+      "coordinates": {
+        "lat": 36.536601586855184,
+        "lng": -77.01048132704418
+      },
+      "address": "Meridian, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Manor",
+      "coordinates": {
+        "lat": 37.440431239659546,
+        "lng": -76.19083277186499
+      },
+      "address": "Manor, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Western Branch",
+      "coordinates": {
+        "lat": 39.28766844363739,
+        "lng": -76.52007358855076
+      },
+      "address": "Western Branch, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Freedom (Woodbridge)",
+      "coordinates": {
+        "lat": 39.11442077480811,
+        "lng": -81.41924397083642
+      },
+      "address": "Freedom (Woodbridge), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Warhill",
+      "coordinates": {
+        "lat": 38.122605602812776,
+        "lng": -80.60699422856479
+      },
+      "address": "Warhill, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Chantilly",
+      "coordinates": {
+        "lat": 37.98347904964344,
+        "lng": -80.80204204265135
+      },
+      "address": "Chantilly, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Christiansburg",
+      "coordinates": {
+        "lat": 39.20168296497573,
+        "lng": -79.14681118026492
+      },
+      "address": "Christiansburg, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "William Monroe",
+      "coordinates": {
+        "lat": 37.38697231792205,
+        "lng": -78.6577853069978
+      },
+      "address": "William Monroe, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Rockbridge County",
+      "coordinates": {
+        "lat": 38.14255643230426,
+        "lng": -77.85884184763157
+      },
+      "address": "Rockbridge County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Blacksburg",
+      "coordinates": {
+        "lat": 39.12187311956436,
+        "lng": -75.45769915867155
+      },
+      "address": "Blacksburg, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Cosby",
+      "coordinates": {
+        "lat": 38.62479270640925,
+        "lng": -78.35171861403344
+      },
+      "address": "Cosby, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Independence",
+      "coordinates": {
+        "lat": 37.82802945951775,
+        "lng": -80.28732213697093
+      },
+      "address": "Independence, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Churchland",
+      "coordinates": {
+        "lat": 36.60077460307928,
+        "lng": -76.0939637863345
+      },
+      "address": "Churchland, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Sherando",
+      "coordinates": {
+        "lat": 39.29499593356579,
+        "lng": -75.80231658219768
+      },
+      "address": "Sherando, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Matoaca",
+      "coordinates": {
+        "lat": 37.31528520901138,
+        "lng": -79.88333317632289
+      },
+      "address": "Matoaca, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Kettle Run",
+      "coordinates": {
+        "lat": 39.461518188935194,
+        "lng": -80.3008769368595
+      },
+      "address": "Kettle Run, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "I. C. Norcom",
+      "coordinates": {
+        "lat": 38.51216499405571,
+        "lng": -81.95168061253386
+      },
+      "address": "I. C. Norcom, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Dinwiddie",
+      "coordinates": {
+        "lat": 39.07500058453115,
+        "lng": -76.60582304541124
+      },
+      "address": "Dinwiddie, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Manchester",
+      "coordinates": {
+        "lat": 39.42611431311114,
+        "lng": -82.67226142676259
+      },
+      "address": "Manchester, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Forest Park",
+      "coordinates": {
+        "lat": 37.864042629831026,
+        "lng": -80.62908102181308
+      },
+      "address": "Forest Park, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Pulaski County",
+      "coordinates": {
+        "lat": 38.35263623600487,
+        "lng": -81.11280622752795
+      },
+      "address": "Pulaski County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "York",
+      "coordinates": {
+        "lat": 36.71969217522555,
+        "lng": -80.27059774714442
+      },
+      "address": "York, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Oscar Smith",
+      "coordinates": {
+        "lat": 36.768300157094956,
+        "lng": -83.36038288071707
+      },
+      "address": "Oscar Smith, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "First Colonial",
+      "coordinates": {
+        "lat": 37.96424948295765,
+        "lng": -77.25292856386217
+      },
+      "address": "First Colonial, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Smith, Oscar",
+      "coordinates": {
+        "lat": 38.47352973960714,
+        "lng": -78.21161332048663
+      },
+      "address": "Smith, Oscar, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Thomas Edison",
+      "coordinates": {
+        "lat": 36.80865940008977,
+        "lng": -82.6742749044259
+      },
+      "address": "Thomas Edison, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Kecoughtan",
+      "coordinates": {
+        "lat": 38.06731490382277,
+        "lng": -80.08812768682883
+      },
+      "address": "Kecoughtan, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Dale, Thomas",
+      "coordinates": {
+        "lat": 37.55420326803006,
+        "lng": -79.09876796607203
+      },
+      "address": "Dale, Thomas, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Heritage (NN)",
+      "coordinates": {
+        "lat": 39.09099752426202,
+        "lng": -78.02355696055841
+      },
+      "address": "Heritage (NN), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Tabb",
+      "coordinates": {
+        "lat": 37.50621964705233,
+        "lng": -81.18637710667056
+      },
+      "address": "Tabb, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "L. C. Bird",
+      "coordinates": {
+        "lat": 38.33136039771801,
+        "lng": -79.47035489396387
+      },
+      "address": "L. C. Bird, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Courtland",
+      "coordinates": {
+        "lat": 38.476499584802504,
+        "lng": -81.47406695323203
+      },
+      "address": "Courtland, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lafayette",
+      "coordinates": {
+        "lat": 37.646336278986986,
+        "lng": -79.17483191107438
+      },
+      "address": "Lafayette, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Bethel",
+      "coordinates": {
+        "lat": 37.86358238202978,
+        "lng": -77.51715516190227
+      },
+      "address": "Bethel, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "King George",
+      "coordinates": {
+        "lat": 36.72815839445638,
+        "lng": -78.26450746970872
+      },
+      "address": "King George, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Millbrook",
+      "coordinates": {
+        "lat": 37.372736513501884,
+        "lng": -76.05173386991541
+      },
+      "address": "Millbrook, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hampton",
+      "coordinates": {
+        "lat": 36.6809777100248,
+        "lng": -76.74629347430093
+      },
+      "address": "Hampton, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "John Champe",
+      "coordinates": {
+        "lat": 39.45931925063281,
+        "lng": -82.71882420101545
+      },
+      "address": "John Champe, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lakeland",
+      "coordinates": {
+        "lat": 37.85528837469753,
+        "lng": -82.45836169386035
+      },
+      "address": "Lakeland, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Herndon",
+      "coordinates": {
+        "lat": 39.17417608422581,
+        "lng": -77.87777568415974
+      },
+      "address": "Herndon, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hylton, C.D.",
+      "coordinates": {
+        "lat": 38.88382122752297,
+        "lng": -75.92600169857741
+      },
+      "address": "Hylton, C.D., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Magna Vista",
+      "coordinates": {
+        "lat": 37.987769811204366,
+        "lng": -79.3758051166885
+      },
+      "address": "Magna Vista, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "South Lakes",
+      "coordinates": {
+        "lat": 37.75244554863151,
+        "lng": -76.12381067604399
+      },
+      "address": "South Lakes, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Battlefield",
+      "coordinates": {
+        "lat": 38.37212411999057,
+        "lng": -79.99773901408624
+      },
+      "address": "Battlefield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Marshall, John",
+      "coordinates": {
+        "lat": 39.455558646904414,
+        "lng": -76.1712187417357
+      },
+      "address": "Marshall, John, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "George Marshall",
+      "coordinates": {
+        "lat": 38.16278973709115,
+        "lng": -81.26613898861437
+      },
+      "address": "George Marshall, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "John R. Lewis",
+      "coordinates": {
+        "lat": 36.87380682018417,
+        "lng": -80.16532295394808
+      },
+      "address": "John R. Lewis, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Patriot",
+      "coordinates": {
+        "lat": 38.258652271428545,
+        "lng": -75.29097969739315
+      },
+      "address": "Patriot, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hickory",
+      "coordinates": {
+        "lat": 38.60208097284403,
+        "lng": -81.0917062546827
+      },
+      "address": "Hickory, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "C. D. Hylton",
+      "coordinates": {
+        "lat": 37.180688633617514,
+        "lng": -78.50899258232913
+      },
+      "address": "C. D. Hylton, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Smithfield",
+      "coordinates": {
+        "lat": 36.691381362175306,
+        "lng": -83.03181485055943
+      },
+      "address": "Smithfield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "King's Fork",
+      "coordinates": {
+        "lat": 36.78476232350489,
+        "lng": -76.69198920499495
+      },
+      "address": "King's Fork, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Loudoun Valley",
+      "coordinates": {
+        "lat": 38.875320569414505,
+        "lng": -77.68689181580388
+      },
+      "address": "Loudoun Valley, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Grassfield",
+      "coordinates": {
+        "lat": 36.8152811964251,
+        "lng": -82.98473822738903
+      },
+      "address": "Grassfield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Chancellor",
+      "coordinates": {
+        "lat": 38.660423783517366,
+        "lng": -75.79134699475817
+      },
+      "address": "Chancellor, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "McLean",
+      "coordinates": {
+        "lat": 36.901695956496276,
+        "lng": -76.16038899341176
+      },
+      "address": "McLean, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Franklin County",
+      "coordinates": {
+        "lat": 37.17840933757816,
+        "lng": -83.1763698348808
+      },
+      "address": "Franklin County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Charles Colgan",
+      "coordinates": {
+        "lat": 39.19658114130449,
+        "lng": -76.01414462310704
+      },
+      "address": "Charles Colgan, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Orange",
+      "coordinates": {
+        "lat": 36.649470327658165,
+        "lng": -76.07832800044113
+      },
+      "address": "Orange, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Maury",
+      "coordinates": {
+        "lat": 38.63064921094416,
+        "lng": -82.01976339408239
+      },
+      "address": "Maury, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Woodbridge",
+      "coordinates": {
+        "lat": 38.2531031478627,
+        "lng": -78.80305046373547
+      },
+      "address": "Woodbridge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Menchville",
+      "coordinates": {
+        "lat": 36.79431320115953,
+        "lng": -79.8293059421576
+      },
+      "address": "Menchville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Massaponax",
+      "coordinates": {
+        "lat": 39.03598389439627,
+        "lng": -79.03072004363857
+      },
+      "address": "Massaponax, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "James Madison",
+      "coordinates": {
+        "lat": 39.02904348155313,
+        "lng": -76.44340988269502
+      },
+      "address": "James Madison, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Colonial Heights",
+      "coordinates": {
+        "lat": 38.212811582558864,
+        "lng": -80.57239845471655
+      },
+      "address": "Colonial Heights, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Midlothian",
+      "coordinates": {
+        "lat": 37.31390303509131,
+        "lng": -81.53771698516367
+      },
+      "address": "Midlothian, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Cox, Frank",
+      "coordinates": {
+        "lat": 37.79097932814252,
+        "lng": -79.31337932198548
+      },
+      "address": "Cox, Frank, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Deep Creek",
+      "coordinates": {
+        "lat": 38.0285558823677,
+        "lng": -81.78831198647032
+      },
+      "address": "Deep Creek, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Oakton",
+      "coordinates": {
+        "lat": 37.71261441281226,
+        "lng": -77.19621974281166
+      },
+      "address": "Oakton, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Justice",
+      "coordinates": {
+        "lat": 38.7651166068559,
+        "lng": -79.06848758774906
+      },
+      "address": "Justice, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Fairfax",
+      "coordinates": {
+        "lat": 39.1537435175084,
+        "lng": -78.57667035192112
+      },
+      "address": "Fairfax, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Salem (Va. Beach)",
+      "coordinates": {
+        "lat": 37.06275049081981,
+        "lng": -76.11766514677181
+      },
+      "address": "Salem (Va. Beach), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Walker, M. Gov.",
+      "coordinates": {
+        "lat": 39.233993318603446,
+        "lng": -80.1814750336819
+      },
+      "address": "Walker, M. Gov., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Patrick Henry (Roanoke)",
+      "coordinates": {
+        "lat": 37.964067118632975,
+        "lng": -82.66847402842637
+      },
+      "address": "Patrick Henry (Roanoke), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "George Washington",
+      "coordinates": {
+        "lat": 37.28572356876901,
+        "lng": -78.87935510814101
+      },
+      "address": "George Washington, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Waynesboro",
+      "coordinates": {
+        "lat": 37.38878725278751,
+        "lng": -81.39046032199579
+      },
+      "address": "Waynesboro, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Bird, L. C.",
+      "coordinates": {
+        "lat": 37.61374528858756,
+        "lng": -79.54107710607471
+      },
+      "address": "Bird, L. C., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Richmond HS (Arts)",
+      "coordinates": {
+        "lat": 38.03705952587729,
+        "lng": -76.70986483962481
+      },
+      "address": "Richmond HS (Arts), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hanover",
+      "coordinates": {
+        "lat": 38.93596740475406,
+        "lng": -76.74885182010892
+      },
+      "address": "Hanover, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Henry, Patrick (Ashland)",
+      "coordinates": {
+        "lat": 36.525021554026004,
+        "lng": -83.53066451092863
+      },
+      "address": "Henry, Patrick (Ashland), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "North Stafford",
+      "coordinates": {
+        "lat": 39.393900649026065,
+        "lng": -78.14707241190433
+      },
+      "address": "North Stafford, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Huguenot",
+      "coordinates": {
+        "lat": 37.81348387704716,
+        "lng": -81.33429866182428
+      },
+      "address": "Huguenot, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Highland Springs",
+      "coordinates": {
+        "lat": 37.0200104949693,
+        "lng": -80.13469831473299
+      },
+      "address": "Highland Springs, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Gainesville",
+      "coordinates": {
+        "lat": 39.01483434012003,
+        "lng": -80.65060986826494
+      },
+      "address": "Gainesville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Osbourn Park",
+      "coordinates": {
+        "lat": 36.9550428307933,
+        "lng": -78.83642060781537
+      },
+      "address": "Osbourn Park, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Monacan",
+      "coordinates": {
+        "lat": 38.92567199993171,
+        "lng": -76.75347766096685
+      },
+      "address": "Monacan, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Ocean Lakes",
+      "coordinates": {
+        "lat": 39.026247300788185,
+        "lng": -80.81285455191396
+      },
+      "address": "Ocean Lakes, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Great Bridge",
+      "coordinates": {
+        "lat": 38.76259023376695,
+        "lng": -78.15978551408486
+      },
+      "address": "Great Bridge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Liberty Christian",
+      "coordinates": {
+        "lat": 39.42264617962267,
+        "lng": -76.94783841042167
+      },
+      "address": "Liberty Christian, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Briar Woods",
+      "coordinates": {
+        "lat": 39.394996806335286,
+        "lng": -80.02219440620205
+      },
+      "address": "Briar Woods, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "W. T. Woodson",
+      "coordinates": {
+        "lat": 37.46636131492658,
+        "lng": -77.58039900262041
+      },
+      "address": "W. T. Woodson, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Floyd Kellam",
+      "coordinates": {
+        "lat": 36.646459885416405,
+        "lng": -78.24106871369912
+      },
+      "address": "Floyd Kellam, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Louisa County",
+      "coordinates": {
+        "lat": 38.423830081668584,
+        "lng": -80.93612120939005
+      },
+      "address": "Louisa County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Wilson Memorial",
+      "coordinates": {
+        "lat": 38.09469052613677,
+        "lng": -81.36629667189824
+      },
+      "address": "Wilson Memorial, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Eastern View",
+      "coordinates": {
+        "lat": 38.10393568375097,
+        "lng": -81.108719655054
+      },
+      "address": "Eastern View, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lord Botetourt",
+      "coordinates": {
+        "lat": 38.79520077662538,
+        "lng": -77.50730421672372
+      },
+      "address": "Lord Botetourt, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Thomas Jefferson S/T",
+      "coordinates": {
+        "lat": 39.171618451439166,
+        "lng": -83.35422710558987
+      },
+      "address": "Thomas Jefferson S/T, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Wakefield",
+      "coordinates": {
+        "lat": 36.737269460744,
+        "lng": -83.46111471376561
+      },
+      "address": "Wakefield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Liberty (Bealeton)",
+      "coordinates": {
+        "lat": 38.70531503689341,
+        "lng": -75.59635000274682
+      },
+      "address": "Liberty (Bealeton), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lake Braddock",
+      "coordinates": {
+        "lat": 37.51475284502533,
+        "lng": -82.3816894783906
+      },
+      "address": "Lake Braddock, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Godwin, Mills",
+      "coordinates": {
+        "lat": 37.646137022561,
+        "lng": -80.19109196283016
+      },
+      "address": "Godwin, Mills, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Bayside",
+      "coordinates": {
+        "lat": 39.023755338822504,
+        "lng": -79.12047684291652
+      },
+      "address": "Bayside, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Powhatan",
+      "coordinates": {
+        "lat": 38.77984201414535,
+        "lng": -78.58759469951545
+      },
+      "address": "Powhatan, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Tucker, J. R.",
+      "coordinates": {
+        "lat": 38.05035184826864,
+        "lng": -78.66948795430449
+      },
+      "address": "Tucker, J. R., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Northside",
+      "coordinates": {
+        "lat": 37.47896218443187,
+        "lng": -78.48839983237086
+      },
+      "address": "Northside, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hermitage",
+      "coordinates": {
+        "lat": 37.31939164703774,
+        "lng": -82.2680283227146
+      },
+      "address": "Hermitage, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Alexandria City",
+      "coordinates": {
+        "lat": 39.4350939759419,
+        "lng": -75.44787334742072
+      },
+      "address": "Alexandria City, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "C.G. Woodson",
+      "coordinates": {
+        "lat": 36.657617220294846,
+        "lng": -77.77711065032548
+      },
+      "address": "C.G. Woodson, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Westfield",
+      "coordinates": {
+        "lat": 37.959269447520676,
+        "lng": -82.47896989007637
+      },
+      "address": "Westfield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Northwestern (Winchester)",
+      "coordinates": {
+        "lat": 37.9467194656572,
+        "lng": -77.75483377638122
+      },
+      "address": "Northwestern (Winchester), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Staunton",
+      "coordinates": {
+        "lat": 39.30091337112978,
+        "lng": -77.45352226527672
+      },
+      "address": "Staunton, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Halifax County",
+      "coordinates": {
+        "lat": 37.84091085930414,
+        "lng": -78.38216195079119
+      },
+      "address": "Halifax County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Tunstall",
+      "coordinates": {
+        "lat": 36.69794197840479,
+        "lng": -78.06122416069186
+      },
+      "address": "Tunstall, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Atlee",
+      "coordinates": {
+        "lat": 38.170444604112106,
+        "lng": -81.3919126707882
+      },
+      "address": "Atlee, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Cave Spring",
+      "coordinates": {
+        "lat": 37.2414431221391,
+        "lng": -80.37451673640719
+      },
+      "address": "Cave Spring, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "App. Reg. Gov.",
+      "coordinates": {
+        "lat": 38.59642310420936,
+        "lng": -83.52682132137083
+      },
+      "address": "App. Reg. Gov., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Brooke Point",
+      "coordinates": {
+        "lat": 37.380734725329965,
+        "lng": -78.67033863601458
+      },
+      "address": "Brooke Point, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Colgan, Charles J.",
+      "coordinates": {
+        "lat": 39.07197999452932,
+        "lng": -79.15264048326189
+      },
+      "address": "Colgan, Charles J., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Freeman, Douglas",
+      "coordinates": {
+        "lat": 39.175263769675006,
+        "lng": -75.91408204800904
+      },
+      "address": "Freeman, Douglas, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Caroline",
+      "coordinates": {
+        "lat": 39.33340137878423,
+        "lng": -75.42518434972689
+      },
+      "address": "Caroline, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Stone Bridge",
+      "coordinates": {
+        "lat": 38.99442525537356,
+        "lng": -81.54178807325012
+      },
+      "address": "Stone Bridge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Dominion",
+      "coordinates": {
+        "lat": 37.71070886852913,
+        "lng": -75.80509138774188
+      },
+      "address": "Dominion, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Harrisonburg",
+      "coordinates": {
+        "lat": 37.54665868356019,
+        "lng": -82.09505496905616
+      },
+      "address": "Harrisonburg, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Kempsville",
+      "coordinates": {
+        "lat": 37.8473131646444,
+        "lng": -77.94703618010392
+      },
+      "address": "Kempsville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Thomas Dale",
+      "coordinates": {
+        "lat": 37.77932735244605,
+        "lng": -77.26784901518171
+      },
+      "address": "Thomas Dale, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "South County",
+      "coordinates": {
+        "lat": 38.06031605735197,
+        "lng": -77.16417895213502
+      },
+      "address": "South County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Rock Ridge",
+      "coordinates": {
+        "lat": 39.03701498379604,
+        "lng": -80.10169632396278
+      },
+      "address": "Rock Ridge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Yorktown",
+      "coordinates": {
+        "lat": 37.18892474329442,
+        "lng": -79.90161129179995
+      },
+      "address": "Yorktown, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Turner Ashby",
+      "coordinates": {
+        "lat": 36.51958376582407,
+        "lng": -81.37044653806163
+      },
+      "address": "Turner Ashby, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Park View",
+      "coordinates": {
+        "lat": 39.25907254410816,
+        "lng": -76.81724188989185
+      },
+      "address": "Park View, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Norcom, I.C.",
+      "coordinates": {
+        "lat": 38.32216637423367,
+        "lng": -80.70414394228735
+      },
+      "address": "Norcom, I.C., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Jefferson Forest",
+      "coordinates": {
+        "lat": 39.44579620394731,
+        "lng": -81.67428837443968
+      },
+      "address": "Jefferson Forest, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Spotswood",
+      "coordinates": {
+        "lat": 37.795866179530066,
+        "lng": -81.0409575793961
+      },
+      "address": "Spotswood, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Green Run",
+      "coordinates": {
+        "lat": 38.28968870948295,
+        "lng": -79.35471314655253
+      },
+      "address": "Green Run, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Mountain View",
+      "coordinates": {
+        "lat": 37.58940222809368,
+        "lng": -76.71809600629624
+      },
+      "address": "Mountain View, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Western Albemarle",
+      "coordinates": {
+        "lat": 37.37106492942739,
+        "lng": -77.00364865105014
+      },
+      "address": "Western Albemarle, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Mount Vernon",
+      "coordinates": {
+        "lat": 36.77922910626485,
+        "lng": -82.98756036033882
+      },
+      "address": "Mount Vernon, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Skyline",
+      "coordinates": {
+        "lat": 37.155823675821644,
+        "lng": -77.25914288682557
+      },
+      "address": "Skyline, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Princess Anne",
+      "coordinates": {
+        "lat": 37.96806023412653,
+        "lng": -81.38409295428998
+      },
+      "address": "Princess Anne, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Potomac Falls",
+      "coordinates": {
+        "lat": 38.35512134116645,
+        "lng": -80.42164424335553
+      },
+      "address": "Potomac Falls, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Warren County",
+      "coordinates": {
+        "lat": 37.75705551786258,
+        "lng": -82.53567885041274
+      },
+      "address": "Warren County, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "J. R. Tucker",
+      "coordinates": {
+        "lat": 38.87091995767134,
+        "lng": -77.99314533941964
+      },
+      "address": "J. R. Tucker, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Staunton River",
+      "coordinates": {
+        "lat": 38.7387795692959,
+        "lng": -79.60617234118988
+      },
+      "address": "Staunton River, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Mecklenburg",
+      "coordinates": {
+        "lat": 36.98556160517342,
+        "lng": -78.21914408402905
+      },
+      "address": "Mecklenburg, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Phoebus",
+      "coordinates": {
+        "lat": 37.56437444839678,
+        "lng": -75.53023642135614
+      },
+      "address": "Phoebus, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Jamestown",
+      "coordinates": {
+        "lat": 38.7631440948014,
+        "lng": -83.29432132270551
+      },
+      "address": "Jamestown, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Nansemond River",
+      "coordinates": {
+        "lat": 37.73938659065879,
+        "lng": -79.79114637136728
+      },
+      "address": "Nansemond River, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Kellam, Floyd",
+      "coordinates": {
+        "lat": 38.11440771275697,
+        "lng": -78.64947985970852
+      },
+      "address": "Kellam, Floyd, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Langley",
+      "coordinates": {
+        "lat": 36.54294491482706,
+        "lng": -80.85205330790066
+      },
+      "address": "Langley, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Annandale",
+      "coordinates": {
+        "lat": 39.29575422887211,
+        "lng": -78.83542516955627
+      },
+      "address": "Annandale, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hidden Valley",
+      "coordinates": {
+        "lat": 39.106179549979316,
+        "lng": -79.90512885654866
+      },
+      "address": "Hidden Valley, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Osbourn",
+      "coordinates": {
+        "lat": 38.10164413491699,
+        "lng": -79.58598409469604
+      },
+      "address": "Osbourn, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Charlottesville",
+      "coordinates": {
+        "lat": 38.15810766847611,
+        "lng": -83.18881982294107
+      },
+      "address": "Charlottesville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Mills Godwin",
+      "coordinates": {
+        "lat": 36.56802279262343,
+        "lng": -79.0547797080917
+      },
+      "address": "Mills Godwin, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hopewell",
+      "coordinates": {
+        "lat": 39.47425599537004,
+        "lng": -78.83960007135742
+      },
+      "address": "Hopewell, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Monticello",
+      "coordinates": {
+        "lat": 38.28759193226627,
+        "lng": -76.8086078243801
+      },
+      "address": "Monticello, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "James Monroe",
+      "coordinates": {
+        "lat": 36.66151996600022,
+        "lng": -82.86113071212101
+      },
+      "address": "James Monroe, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Washington-Liberty",
+      "coordinates": {
+        "lat": 36.59642725826927,
+        "lng": -83.37693695382272
+      },
+      "address": "Washington-Liberty, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "New Kent",
+      "coordinates": {
+        "lat": 38.89644312307887,
+        "lng": -76.36760172244229
+      },
+      "address": "New Kent, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Deep Run",
+      "coordinates": {
+        "lat": 38.68248396662055,
+        "lng": -77.141879125708
+      },
+      "address": "Deep Run, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Mechanicsville",
+      "coordinates": {
+        "lat": 38.516938305533714,
+        "lng": -76.85572349379058
+      },
+      "address": "Mechanicsville, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Salem (Roanoke)",
+      "coordinates": {
+        "lat": 39.13278569341935,
+        "lng": -78.06698837099823
+      },
+      "address": "Salem (Roanoke), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Norview",
+      "coordinates": {
+        "lat": 38.004256001837504,
+        "lng": -75.92006692612901
+      },
+      "address": "Norview, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "James River (Midlothian)",
+      "coordinates": {
+        "lat": 36.98441088415616,
+        "lng": -76.1130627741722
+      },
+      "address": "James River (Midlothian), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Armstrong",
+      "coordinates": {
+        "lat": 37.725537140092364,
+        "lng": -83.00505532575889
+      },
+      "address": "Armstrong, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Landstown",
+      "coordinates": {
+        "lat": 37.996075010388964,
+        "lng": -79.58574241380428
+      },
+      "address": "Landstown, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Stafford",
+      "coordinates": {
+        "lat": 37.93396807412744,
+        "lng": -80.57788984381487
+      },
+      "address": "Stafford, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Culpeper",
+      "coordinates": {
+        "lat": 37.41430262212292,
+        "lng": -79.67518401553758
+      },
+      "address": "Culpeper, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Petersburg",
+      "coordinates": {
+        "lat": 38.0260159030051,
+        "lng": -81.8206191765019
+      },
+      "address": "Petersburg, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Freedom (Leesburg)",
+      "coordinates": {
+        "lat": 38.64238695306574,
+        "lng": -78.41550918993168
+      },
+      "address": "Freedom (Leesburg), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Lightridge",
+      "coordinates": {
+        "lat": 38.19392029278071,
+        "lng": -79.18977913285094
+      },
+      "address": "Lightridge, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Denbigh",
+      "coordinates": {
+        "lat": 36.95811838394612,
+        "lng": -75.53769750129908
+      },
+      "address": "Denbigh, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Woodside",
+      "coordinates": {
+        "lat": 39.33422216518115,
+        "lng": -79.11784372732441
+      },
+      "address": "Woodside, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Abingdon",
+      "coordinates": {
+        "lat": 36.70622833867648,
+        "lng": -79.56374283918511
+      },
+      "address": "Abingdon, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Clover Hill",
+      "coordinates": {
+        "lat": 38.86768187533211,
+        "lng": -80.53546056073324
+      },
+      "address": "Clover Hill, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Douglas Freeman",
+      "coordinates": {
+        "lat": 38.10906327765971,
+        "lng": -80.62648359385773
+      },
+      "address": "Douglas Freeman, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Washington, B.T.",
+      "coordinates": {
+        "lat": 38.98088680209337,
+        "lng": -76.04922697943985
+      },
+      "address": "Washington, B.T., Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Handley",
+      "coordinates": {
+        "lat": 37.45584304450478,
+        "lng": -79.49347546780112
+      },
+      "address": "Handley, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "E. C. Glass",
+      "coordinates": {
+        "lat": 37.48596200724601,
+        "lng": -81.33910218308094
+      },
+      "address": "E. C. Glass, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Riverside",
+      "coordinates": {
+        "lat": 39.04962766952603,
+        "lng": -76.11848578624004
+      },
+      "address": "Riverside, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Albemarle",
+      "coordinates": {
+        "lat": 38.24368570482857,
+        "lng": -82.35994332542505
+      },
+      "address": "Albemarle, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Henrico",
+      "coordinates": {
+        "lat": 37.22795157818842,
+        "lng": -83.46362542702627
+      },
+      "address": "Henrico, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Hayfield",
+      "coordinates": {
+        "lat": 36.86638228313026,
+        "lng": -82.57431348918449
+      },
+      "address": "Hayfield, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Liberty (Bedford)",
+      "coordinates": {
+        "lat": 39.05490916813206,
+        "lng": -77.70023614739672
+      },
+      "address": "Liberty (Bedford), Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Jefferson, Thomas",
+      "coordinates": {
+        "lat": 38.578656111829645,
+        "lng": -78.6656223149379
+      },
+      "address": "Jefferson, Thomas, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Warwick",
+      "coordinates": {
+        "lat": 38.42292579032831,
+        "lng": -75.83370656993186
+      },
+      "address": "Warwick, Virginia",
+      "synthetic": true
+    },
+    {
+      "name": "Heritage (Leesburg)",
+      "coordinates": {
+        "lat": 36.77486069522799,
+        "lng": -80.63622356396026
+      },
+      "address": "Heritage (Leesburg), Virginia",
+      "synthetic": true
+    }
+  ]
+}

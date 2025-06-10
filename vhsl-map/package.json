@@ -1,0 +1,26 @@
+{
+  "name": "vhsl-map-project",
+  "version": "1.0.0",
+  "description": "Interactive map for Virginia High School League schools, classes, regions, and districts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "vhsl",
+    "map",
+    "openlayers",
+    "virginia",
+    "high school"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ol": "^7.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}

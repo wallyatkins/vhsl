@@ -1,0 +1,2678 @@
+{
+  "Charles City": {
+    "name": "Charles City",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -77.07593803,
+      37.35098283
+    ]
+  },
+  "Chincoteague": {
+    "name": "Chincoteague",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Eastern Shore",
+    "coordinates": [
+      -75.36433909,
+      37.94293107
+    ]
+  },
+  "Colonial Beach": {
+    "name": "Colonial Beach",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.96929798,
+      38.25778076
+    ]
+  },
+  "Essex": {
+    "name": "Essex",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.874319,
+      37.92393778
+    ]
+  },
+  "King & Queen": {
+    "name": "King & Queen",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -76.88255215,
+      37.674278
+    ]
+  },
+  "Lancaster": {
+    "name": "Lancaster",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.45674989,
+      37.76879536
+    ]
+  },
+  "Mathews": {
+    "name": "Mathews",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -76.32550153,
+      37.45009366
+    ]
+  },
+  "Middlesex": {
+    "name": "Middlesex",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -76.60202396,
+      37.60814115
+    ]
+  },
+  "Northampton": {
+    "name": "Northampton",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Eastern Shore",
+    "coordinates": [
+      -75.94136521,
+      37.3612684
+    ]
+  },
+  "Northumberland": {
+    "name": "Northumberland",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.43890512,
+      37.91323855
+    ]
+  },
+  "Rappahannock": {
+    "name": "Rappahannock",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.74336496,
+      37.94921185
+    ]
+  },
+  "Washington & Lee": {
+    "name": "Washington & Lee",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Northern Neck",
+    "coordinates": [
+      -76.81824763,
+      38.09355207
+    ]
+  },
+  "West Point": {
+    "name": "West Point",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -76.79710111,
+      37.55736667
+    ]
+  },
+  "Altavista": {
+    "name": "Altavista",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.29608408,
+      37.10926577
+    ]
+  },
+  "Appomattox Regional Governors School": {
+    "name": "Appomattox Regional Governors School",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -77.41162612,
+      37.22595174
+    ]
+  },
+  "Carver College & Career Academy": {
+    "name": "Carver College & Career Academy",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Tidewater",
+    "coordinates": [
+      -77.47262211,
+      37.34859167
+    ]
+  },
+  "Central (Lunenburg)": {
+    "name": "Central (Lunenburg)",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "James River",
+    "coordinates": [
+      -78.21684539,
+      36.98503361
+    ]
+  },
+  "Cumberland": {
+    "name": "Cumberland",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "James River",
+    "coordinates": [
+      -78.24695041,
+      37.49094658
+    ]
+  },
+  "Franklin": {
+    "name": "Franklin",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -76.94784179,
+      36.69113704
+    ]
+  },
+  "Galileo Magnet": {
+    "name": "Galileo Magnet",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.39318074,
+      36.58392566
+    ]
+  },
+  "Rappahannock County": {
+    "name": "Rappahannock County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.18767806,
+      38.68668528
+    ]
+  },
+  "Riverheads": {
+    "name": "Riverheads",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Shenandoah",
+    "coordinates": [
+      -79.139953,
+      38.0325554
+    ]
+  },
+  "Surry County": {
+    "name": "Surry County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -76.90343585,
+      37.08027239
+    ]
+  },
+  "Sussex": {
+    "name": "Sussex",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -77.25421794,
+      36.92020037
+    ]
+  },
+  "William Campbell": {
+    "name": "William Campbell",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region B",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.00671594,
+      37.11344129
+    ]
+  },
+  "Auburn": {
+    "name": "Auburn",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -80.44426881,
+      37.05939231
+    ]
+  },
+  "Bath County": {
+    "name": "Bath County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -79.79476705,
+      38.03320054
+    ]
+  },
+  "Bland County": {
+    "name": "Bland County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -81.10940784,
+      37.24149024
+    ]
+  },
+  "Covington": {
+    "name": "Covington",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -79.99171121,
+      37.784281
+    ]
+  },
+  "Craig County": {
+    "name": "Craig County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -80.08439633,
+      37.51651599
+    ]
+  },
+  "Eastern Montgomery": {
+    "name": "Eastern Montgomery",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -80.23052783,
+      37.20423232
+    ]
+  },
+  "Fort Chiswell": {
+    "name": "Fort Chiswell",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -80.9395259,
+      36.92971909
+    ]
+  },
+  "Galax": {
+    "name": "Galax",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -80.92417614,
+      36.6547361
+    ]
+  },
+  "George Wythe (Wytheville)": {
+    "name": "George Wythe (Wytheville)",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -81.1025141,
+      36.94125271
+    ]
+  },
+  "Grayson County": {
+    "name": "Grayson County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Mountain Empire",
+    "coordinates": [
+      -81.14672871,
+      36.621475
+    ]
+  },
+  "Highland County": {
+    "name": "Highland County",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -79.57895117,
+      38.4072979
+    ]
+  },
+  "Narrows": {
+    "name": "Narrows",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -80.80402685,
+      37.33765483
+    ]
+  },
+  "Parry McCluer": {
+    "name": "Parry McCluer",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region C",
+    "district": "Pioneer",
+    "coordinates": [
+      -79.35948647,
+      37.71823945
+    ]
+  },
+  "Castlewood": {
+    "name": "Castlewood",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -82.29632028,
+      36.87197785
+    ]
+  },
+  "Chilhowie": {
+    "name": "Chilhowie",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Hogoheegee",
+    "coordinates": [
+      -81.67373413,
+      36.80446381
+    ]
+  },
+  "Council": {
+    "name": "Council",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -82.0793243,
+      37.08224452
+    ]
+  },
+  "Eastside": {
+    "name": "Eastside",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -82.46828565,
+      36.94595205
+    ]
+  },
+  "Grundy": {
+    "name": "Grundy",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -82.06196088,
+      37.28350847
+    ]
+  },
+  "Haysi": {
+    "name": "Haysi",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -82.29360432,
+      37.19972953
+    ]
+  },
+  "Holston": {
+    "name": "Holston",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Hogoheegee",
+    "coordinates": [
+      -81.79391287,
+      36.65426083
+    ]
+  },
+  "Honaker": {
+    "name": "Honaker",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -81.97868381,
+      37.0168268
+    ]
+  },
+  "Hurley": {
+    "name": "Hurley",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -82.0004138,
+      37.38024718
+    ]
+  },
+  "J.I. Burton": {
+    "name": "J.I. Burton",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -82.63354485,
+      36.92982794
+    ]
+  },
+  "Northwood": {
+    "name": "Northwood",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Hogoheegee",
+    "coordinates": [
+      -81.76285871,
+      36.87891017
+    ]
+  },
+  "Patrick Henry (Glade Spring)": {
+    "name": "Patrick Henry (Glade Spring)",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Hogoheegee",
+    "coordinates": [
+      -81.81450086,
+      36.7761881
+    ]
+  },
+  "Rural Retreat": {
+    "name": "Rural Retreat",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Hogoheegee",
+    "coordinates": [
+      -81.26931573,
+      36.89542392
+    ]
+  },
+  "Rye Cove": {
+    "name": "Rye Cove",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -82.69131874,
+      36.73542458
+    ]
+  },
+  "Thomas Walker": {
+    "name": "Thomas Walker",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -83.40863207,
+      36.64739072
+    ]
+  },
+  "Twin Springs": {
+    "name": "Twin Springs",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Cumberland",
+    "coordinates": [
+      -82.46313311,
+      36.7793819
+    ]
+  },
+  "Twin Valley": {
+    "name": "Twin Valley",
+    "size": 1,
+    "class": "Class 1",
+    "region": "Region D",
+    "district": "Black Diamond",
+    "coordinates": [
+      -81.91357041,
+      37.24027986
+    ]
+  },
+  "Amelia": {
+    "name": "Amelia",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "James River",
+    "coordinates": [
+      -77.98783996,
+      37.33151562
+    ]
+  },
+  "Arcadia": {
+    "name": "Arcadia",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Eastern Shore",
+    "coordinates": [
+      -75.54974664,
+      37.92507876
+    ]
+  },
+  "Bluestone": {
+    "name": "Bluestone",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "James River",
+    "coordinates": [
+      -78.49589394,
+      36.70552445
+    ]
+  },
+  "Brunswick": {
+    "name": "Brunswick",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -77.8294486,
+      36.76729148
+    ]
+  },
+  "Bruton": {
+    "name": "Bruton",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.69157439,
+      37.31095138
+    ]
+  },
+  "Greensville County": {
+    "name": "Greensville County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -77.55302272,
+      36.67945392
+    ]
+  },
+  "John Marshall": {
+    "name": "John Marshall",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Colonial",
+    "coordinates": [
+      -77.44650608,
+      37.59513072
+    ]
+  },
+  "King William": {
+    "name": "King William",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Tidewater",
+    "coordinates": [
+      -77.13005411,
+      37.74251698
+    ]
+  },
+  "Nandua": {
+    "name": "Nandua",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Eastern Shore",
+    "coordinates": [
+      -75.7251235,
+      37.67871973
+    ]
+  },
+  "Nottoway": {
+    "name": "Nottoway",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "James River",
+    "coordinates": [
+      -78.06431556,
+      37.12271197
+    ]
+  },
+  "Poquoson": {
+    "name": "Poquoson",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.37963456,
+      37.12915226
+    ]
+  },
+  "Prince Edward": {
+    "name": "Prince Edward",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "James River",
+    "coordinates": [
+      -78.39937063,
+      37.26493415
+    ]
+  },
+  "Randolph-Henry": {
+    "name": "Randolph-Henry",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "James River",
+    "coordinates": [
+      -78.6473185,
+      37.05398002
+    ]
+  },
+  "Thomas Jefferson (Richmond)": {
+    "name": "Thomas Jefferson (Richmond)",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Colonial",
+    "coordinates": [
+      -77.48651112,
+      37.57124719
+    ]
+  },
+  "Windsor": {
+    "name": "Windsor",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region A",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -76.73924852,
+      36.81046889
+    ]
+  },
+  "Buckingham County": {
+    "name": "Buckingham County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "James River",
+    "coordinates": [
+      -78.51131191,
+      37.54103708
+    ]
+  },
+  "Buffalo Gap": {
+    "name": "Buffalo Gap",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Shenandoah",
+    "coordinates": [
+      -79.21872522,
+      38.19409716
+    ]
+  },
+  "Clarke County": {
+    "name": "Clarke County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -77.99422599,
+      39.16172995
+    ]
+  },
+  "East Rockingham": {
+    "name": "East Rockingham",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.65421908,
+      38.39951571
+    ]
+  },
+  "Luray": {
+    "name": "Luray",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.48553569,
+      38.65451477
+    ]
+  },
+  "Madison County": {
+    "name": "Madison County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.26853326,
+      38.3651389
+    ]
+  },
+  "Page County": {
+    "name": "Page County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.610209,
+      38.56356866
+    ]
+  },
+  "Staunton": {
+    "name": "Staunton",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Shenandoah",
+    "coordinates": [
+      -79.05332371,
+      38.16530365
+    ]
+  },
+  "Mountain View (Stonewall Jackson)": {
+    "name": "Mountain View (Stonewall Jackson)",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.66370048,
+      38.70380007
+    ]
+  },
+  "Strasburg": {
+    "name": "Strasburg",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Bull Run",
+    "coordinates": [
+      -78.36270712,
+      38.98465656
+    ]
+  },
+  "Stuarts Draft": {
+    "name": "Stuarts Draft",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region B",
+    "district": "Shenandoah",
+    "coordinates": [
+      -79.01291344,
+      38.04644619
+    ]
+  },
+  "Alleghany": {
+    "name": "Alleghany",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -79.90864672,
+      37.78881131
+    ]
+  },
+  "Appomattox": {
+    "name": "Appomattox",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Dogwood",
+    "coordinates": [
+      -78.82611416,
+      37.34543957
+    ]
+  },
+  "Chatham": {
+    "name": "Chatham",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.40231567,
+      36.78756767
+    ]
+  },
+  "Dan River": {
+    "name": "Dan River",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.30011355,
+      36.66182949
+    ]
+  },
+  "Floyd County": {
+    "name": "Floyd County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -80.30818427,
+      36.90941174
+    ]
+  },
+  "Giles": {
+    "name": "Giles",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -80.70470449,
+      37.3274981
+    ]
+  },
+  "Glenvar": {
+    "name": "Glenvar",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -80.13953006,
+      37.28063354
+    ]
+  },
+  "Gretna": {
+    "name": "Gretna",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Dogwood",
+    "coordinates": [
+      -79.36875363,
+      36.94567814
+    ]
+  },
+  "James River (Buchanan)": {
+    "name": "James River (Buchanan)",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -79.72626211,
+      37.54748086
+    ]
+  },
+  "Nelson County": {
+    "name": "Nelson County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Dogwood",
+    "coordinates": [
+      -78.89549879,
+      37.7328428
+    ]
+  },
+  "Patrick County": {
+    "name": "Patrick County",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Piedmont",
+    "coordinates": [
+      -80.27029472,
+      36.62293569
+    ]
+  },
+  "Radford": {
+    "name": "Radford",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region C",
+    "district": "Three Rivers",
+    "coordinates": [
+      -80.57011003,
+      37.13580776
+    ]
+  },
+  "Central (Wise)": {
+    "name": "Central (Wise)",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -82.59735197,
+      36.95520488
+    ]
+  },
+  "Gate City": {
+    "name": "Gate City",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -82.56891542,
+      36.63976852
+    ]
+  },
+  "Graham": {
+    "name": "Graham",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -81.27062765,
+      37.23799226
+    ]
+  },
+  "John Battle": {
+    "name": "John Battle",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -82.10343473,
+      36.6437899
+    ]
+  },
+  "Lebanon": {
+    "name": "Lebanon",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -82.10940515,
+      36.88856275
+    ]
+  },
+  "Lee": {
+    "name": "Lee",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -83.08889684,
+      36.731266
+    ]
+  },
+  "Marion Senior": {
+    "name": "Marion Senior",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -81.50495431,
+      36.83878091
+    ]
+  },
+  "Martinsville": {
+    "name": "Martinsville",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Piedmont",
+    "coordinates": [
+      -79.86207,
+      36.69461898
+    ]
+  },
+  "Richlands": {
+    "name": "Richlands",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -81.77750002,
+      37.09343415
+    ]
+  },
+  "Ridgeview": {
+    "name": "Ridgeview",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -82.39003416,
+      37.13411629
+    ]
+  },
+  "Tazewell": {
+    "name": "Tazewell",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -81.5053131,
+      37.12476976
+    ]
+  },
+  "Union": {
+    "name": "Union",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -82.73776645,
+      36.87945936
+    ]
+  },
+  "Virginia": {
+    "name": "Virginia",
+    "size": 2,
+    "class": "Class 2",
+    "region": "Region D",
+    "district": "Southwest",
+    "coordinates": [
+      -82.17945171,
+      36.61469506
+    ]
+  },
+  "Booker T. Washington": {
+    "name": "Booker T. Washington",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Eastern",
+    "coordinates": [
+      -76.2662947,
+      36.85293486
+    ]
+  },
+  "Colonial Heights": {
+    "name": "Colonial Heights",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Central",
+    "coordinates": [
+      -77.39109784,
+      37.26787145
+    ]
+  },
+  "Hopewell": {
+    "name": "Hopewell",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Central",
+    "coordinates": [
+      -77.31384785,
+      37.28984351
+    ]
+  },
+  "I.C. Norcom": {
+    "name": "I.C. Norcom",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Eastern",
+    "coordinates": [
+      -76.32049933,
+      36.83607738
+    ]
+  },
+  "Lafayette": {
+    "name": "Lafayette",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.7633014,
+      37.31605526
+    ]
+  },
+  "Lakeland": {
+    "name": "Lakeland",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Southeastern",
+    "coordinates": [
+      -76.660214,
+      36.72103254
+    ]
+  },
+  "New Kent": {
+    "name": "New Kent",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.98113178,
+      37.51020375
+    ]
+  },
+  "Park View (South Hill)": {
+    "name": "Park View (South Hill)",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -78.18285579,
+      36.70291407
+    ]
+  },
+  "Petersburg": {
+    "name": "Petersburg",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Central",
+    "coordinates": [
+      -77.39995448,
+      37.1871715
+    ]
+  },
+  "Phoebus": {
+    "name": "Phoebus",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Peninsula",
+    "coordinates": [
+      -76.31687681,
+      37.03403867
+    ]
+  },
+  "Southampton": {
+    "name": "Southampton",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Tri-Rivers",
+    "coordinates": [
+      -77.10679385,
+      36.70105542
+    ]
+  },
+  "Tabb": {
+    "name": "Tabb",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.4376612,
+      37.1240735
+    ]
+  },
+  "York": {
+    "name": "York",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region A",
+    "district": "Bay Rivers",
+    "coordinates": [
+      -76.50104189,
+      37.20382631
+    ]
+  },
+  "Armstrong": {
+    "name": "Armstrong",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Capital",
+    "coordinates": [
+      -77.40407823,
+      37.55206691
+    ]
+  },
+  "Brentsville District": {
+    "name": "Brentsville District",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -77.56885572,
+      38.69213979
+    ]
+  },
+  "Central (Woodstock)": {
+    "name": "Central (Woodstock)",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -78.522893,
+      38.86686252
+    ]
+  },
+  "George Mason (Meridian)": {
+    "name": "George Mason (Meridian)",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -77.19189637,
+      38.89769585
+    ]
+  },
+  "Goochland": {
+    "name": "Goochland",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Jefferson",
+    "coordinates": [
+      -77.89693819,
+      37.69981473
+    ]
+  },
+  "James Monroe": {
+    "name": "James Monroe",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Battlefield",
+    "coordinates": [
+      -77.47476279,
+      38.31120868
+    ]
+  },
+  "Lightridge": {
+    "name": "Lightridge",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Dulles",
+    "coordinates": [
+      -77.58506523,
+      38.92089102
+    ]
+  },
+  "Maggie Walker Governor's School": {
+    "name": "Maggie Walker Governor's School",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Colonial",
+    "coordinates": [
+      -77.45352846,
+      37.55779902
+    ]
+  },
+  "Manassas Park": {
+    "name": "Manassas Park",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -77.44019269,
+      38.77836044
+    ]
+  },
+  "Skyline": {
+    "name": "Skyline",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -78.20728477,
+      38.90630189
+    ]
+  },
+  "Warren County": {
+    "name": "Warren County",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -78.16662608,
+      38.91612695
+    ]
+  },
+  "William Monroe": {
+    "name": "William Monroe",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region B",
+    "district": "Northwestern",
+    "coordinates": [
+      -78.44298699,
+      38.29401578
+    ]
+  },
+  "Broadway": {
+    "name": "Broadway",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Valley",
+    "coordinates": [
+      -78.79479398,
+      38.60557075
+    ]
+  },
+  "Brookville": {
+    "name": "Brookville",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Seminole",
+    "coordinates": [
+      -79.23535275,
+      37.3461137
+    ]
+  },
+  "Charlottesville": {
+    "name": "Charlottesville",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Jefferson",
+    "coordinates": [
+      -78.47531707,
+      38.05291129
+    ]
+  },
+  "Fluvanna County": {
+    "name": "Fluvanna County",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Jefferson",
+    "coordinates": [
+      -78.29823744,
+      37.87190208
+    ]
+  },
+  "Fort Defiance": {
+    "name": "Fort Defiance",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Shenandoah",
+    "coordinates": [
+      -78.97434468,
+      38.24708129
+    ]
+  },
+  "Heritage (Lynchburg)": {
+    "name": "Heritage (Lynchburg)",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Seminole",
+    "coordinates": [
+      -79.20679176,
+      37.36368535
+    ]
+  },
+  "Liberty (Bedford)": {
+    "name": "Liberty (Bedford)",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Seminole",
+    "coordinates": [
+      -79.49809731,
+      37.37163084
+    ]
+  },
+  "Liberty Christian Academy": {
+    "name": "Liberty Christian Academy",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Seminole",
+    "coordinates": [
+      -79.17206999,
+      37.36042762
+    ]
+  },
+  "Monticello": {
+    "name": "Monticello",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Jefferson",
+    "coordinates": [
+      -78.48932616,
+      37.99884673
+    ]
+  },
+  "Rockbridge County": {
+    "name": "Rockbridge County",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Valley",
+    "coordinates": [
+      -79.42213593,
+      37.8018904
+    ]
+  },
+  "Rustburg": {
+    "name": "Rustburg",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Seminole",
+    "coordinates": [
+      -79.08502666,
+      37.27659969
+    ]
+  },
+  "Spotswood": {
+    "name": "Spotswood",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Valley",
+    "coordinates": [
+      -78.76310224,
+      38.37530828
+    ]
+  },
+  "Turner Ashby": {
+    "name": "Turner Ashby",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Valley",
+    "coordinates": [
+      -78.95605727,
+      38.39491127
+    ]
+  },
+  "Waynesboro": {
+    "name": "Waynesboro",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Valley",
+    "coordinates": [
+      -78.8977953,
+      38.07074519
+    ]
+  },
+  "Western Albemarle": {
+    "name": "Western Albemarle",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Jefferson",
+    "coordinates": [
+      -78.70718445,
+      38.04729354
+    ]
+  },
+  "Wilson Memorial": {
+    "name": "Wilson Memorial",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region C",
+    "district": "Shenandoah",
+    "coordinates": [
+      -78.98537805,
+      38.12123541
+    ]
+  },
+  "Abingdon": {
+    "name": "Abingdon",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Mountain 7",
+    "coordinates": [
+      -81.95381648,
+      36.72059239
+    ]
+  },
+  "Carroll County": {
+    "name": "Carroll County",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Three Rivers",
+    "coordinates": [
+      -80.72360605,
+      36.76218134
+    ]
+  },
+  "Cave Spring": {
+    "name": "Cave Spring",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "River Ridge",
+    "coordinates": [
+      -80.00152626,
+      37.21314355
+    ]
+  },
+  "Christiansburg": {
+    "name": "Christiansburg",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "River Ridge",
+    "coordinates": [
+      -80.41809787,
+      37.14526604
+    ]
+  },
+  "Hidden Valley": {
+    "name": "Hidden Valley",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "River Ridge",
+    "coordinates": [
+      -80.0235844,
+      37.22373552
+    ]
+  },
+  "Lord Botetourt": {
+    "name": "Lord Botetourt",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Blue Ridge",
+    "coordinates": [
+      -79.91441102,
+      37.40567155
+    ]
+  },
+  "Magna Vista": {
+    "name": "Magna Vista",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Piedmont",
+    "coordinates": [
+      -79.8908182,
+      36.59266617
+    ]
+  },
+  "Northside": {
+    "name": "Northside",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Blue Ridge",
+    "coordinates": [
+      -79.99936927,
+      37.32897936
+    ]
+  },
+  "Staunton River": {
+    "name": "Staunton River",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Blue Ridge",
+    "coordinates": [
+      -79.62279692,
+      37.2410819
+    ]
+  },
+  "Tunstall": {
+    "name": "Tunstall",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Piedmont",
+    "coordinates": [
+      -79.52457961,
+      36.6693208
+    ]
+  },
+  "William Byrd": {
+    "name": "William Byrd",
+    "size": 3,
+    "class": "Class 3",
+    "region": "Region D",
+    "district": "Blue Ridge",
+    "coordinates": [
+      -79.85852092,
+      37.2836599
+    ]
+  },
+  "Churchland": {
+    "name": "Churchland",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Denbigh": {
+    "name": "Denbigh",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Grafton": {
+    "name": "Grafton",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Bay Rivers"
+  },
+  "Great Bridge": {
+    "name": "Great Bridge",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Hampton": {
+    "name": "Hampton",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Heritage (Newport News)": {
+    "name": "Heritage (Newport News)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Jamestown": {
+    "name": "Jamestown",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Bay Rivers"
+  },
+  "King's Fork": {
+    "name": "King's Fork",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Lake Taylor": {
+    "name": "Lake Taylor",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Menchville": {
+    "name": "Menchville",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Smithfield": {
+    "name": "Smithfield",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Bay Rivers"
+  },
+  "Warhill": {
+    "name": "Warhill",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Bay Rivers"
+  },
+  "Warwick": {
+    "name": "Warwick",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Woodrow Wilson": {
+    "name": "Woodrow Wilson",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Caroline": {
+    "name": "Caroline",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "Chancellor": {
+    "name": "Chancellor",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "Courtland": {
+    "name": "Courtland",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "Dinwiddie": {
+    "name": "Dinwiddie",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Central"
+  },
+  "Eastern View": {
+    "name": "Eastern View",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "George Wythe (Richmond)": {
+    "name": "George Wythe (Richmond)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Hanover": {
+    "name": "Hanover",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "Huguenot": {
+    "name": "Huguenot",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "King George": {
+    "name": "King George",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "Louisa County": {
+    "name": "Louisa County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Jefferson"
+  },
+  "Mechanicsville": {
+    "name": "Mechanicsville",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "Monacan": {
+    "name": "Monacan",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Orange County": {
+    "name": "Orange County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Jefferson"
+  },
+  "Patrick Henry (Ashland)": {
+    "name": "Patrick Henry (Ashland)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "Powhatan": {
+    "name": "Powhatan",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Spotsylvania": {
+    "name": "Spotsylvania",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region B",
+    "district": "Battlefield"
+  },
+  "Broad Run": {
+    "name": "Broad Run",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Culpeper County": {
+    "name": "Culpeper County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Battlefield"
+  },
+  "Dominion": {
+    "name": "Dominion",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Fauquier": {
+    "name": "Fauquier",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Heritage (Leesburg)": {
+    "name": "Heritage (Leesburg)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Independence": {
+    "name": "Independence",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "James Wood": {
+    "name": "James Wood",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "John Handley": {
+    "name": "John Handley",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Kettle Run": {
+    "name": "Kettle Run",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Liberty (Bealeton)": {
+    "name": "Liberty (Bealeton)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Loudoun County": {
+    "name": "Loudoun County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Loudoun Valley": {
+    "name": "Loudoun Valley",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Millbrook": {
+    "name": "Millbrook",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Park View (Sterling)": {
+    "name": "Park View (Sterling)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Sherando": {
+    "name": "Sherando",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Northwestern"
+  },
+  "Tuscarora": {
+    "name": "Tuscarora",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region C",
+    "district": "Dulles"
+  },
+  "Amherst": {
+    "name": "Amherst",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Seminole"
+  },
+  "Bassett": {
+    "name": "Bassett",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Piedmont"
+  },
+  "Blacksburg": {
+    "name": "Blacksburg",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "River Ridge"
+  },
+  "E.C. Glass": {
+    "name": "E.C. Glass",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Seminole"
+  },
+  "George Washington": {
+    "name": "George Washington",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Piedmont"
+  },
+  "Halifax County": {
+    "name": "Halifax County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Piedmont"
+  },
+  "Jefferson Forest": {
+    "name": "Jefferson Forest",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "Seminole"
+  },
+  "Pulaski County": {
+    "name": "Pulaski County",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "River Ridge"
+  },
+  "Salem (Salem)": {
+    "name": "Salem (Salem)",
+    "size": 4,
+    "class": "Class 4",
+    "region": "Region D",
+    "district": "River Ridge"
+  },
+  "Bayside": {
+    "name": "Bayside",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Deep Creek": {
+    "name": "Deep Creek",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "First Colonial": {
+    "name": "First Colonial",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Frank W. Cox": {
+    "name": "Frank W. Cox",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Gloucester": {
+    "name": "Gloucester",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Granby": {
+    "name": "Granby",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Green Run": {
+    "name": "Green Run",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Hickory": {
+    "name": "Hickory",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Indian River": {
+    "name": "Indian River",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Kecoughtan": {
+    "name": "Kecoughtan",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Kempsville": {
+    "name": "Kempsville",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Maury": {
+    "name": "Maury",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Nansemond River": {
+    "name": "Nansemond River",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Norview": {
+    "name": "Norview",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Eastern"
+  },
+  "Princess Anne": {
+    "name": "Princess Anne",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Salem (Virginia Beach)": {
+    "name": "Salem (Virginia Beach)",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Woodside": {
+    "name": "Woodside",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region A",
+    "district": "Peninsula"
+  },
+  "Atlee": {
+    "name": "Atlee",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "Bethel": {
+    "name": "Bethel",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Peninsula"
+  },
+  "Clover Hill": {
+    "name": "Clover Hill",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Deep Run": {
+    "name": "Deep Run",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Colonial"
+  },
+  "Douglas S. Freeman": {
+    "name": "Douglas S. Freeman",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Colonial"
+  },
+  "Glen Allen": {
+    "name": "Glen Allen",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Colonial"
+  },
+  "Henrico": {
+    "name": "Henrico",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "J.R. Tucker": {
+    "name": "J.R. Tucker",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Colonial"
+  },
+  "L.C. Bird": {
+    "name": "L.C. Bird",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Manchester": {
+    "name": "Manchester",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Matoaca": {
+    "name": "Matoaca",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Central"
+  },
+  "Meadowbrook": {
+    "name": "Meadowbrook",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Central"
+  },
+  "Midlothian": {
+    "name": "Midlothian",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Dominion"
+  },
+  "Mills E. Godwin": {
+    "name": "Mills E. Godwin",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Colonial"
+  },
+  "Prince George": {
+    "name": "Prince George",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Central"
+  },
+  "Varina": {
+    "name": "Varina",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region B",
+    "district": "Capital"
+  },
+  "Briar Woods": {
+    "name": "Briar Woods",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Freedom (South Riding)": {
+    "name": "Freedom (South Riding)",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Hermitage": {
+    "name": "Hermitage",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Colonial"
+  },
+  "Highland Springs": {
+    "name": "Highland Springs",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Capital"
+  },
+  "John R. Lewis": {
+    "name": "John R. Lewis",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "National"
+  },
+  "Potomac Falls": {
+    "name": "Potomac Falls",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Riverside": {
+    "name": "Riverside",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Rock Ridge": {
+    "name": "Rock Ridge",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Stone Bridge": {
+    "name": "Stone Bridge",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Thomas Jefferson S&T": {
+    "name": "Thomas Jefferson S&T",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "National"
+  },
+  "Woodgrove": {
+    "name": "Woodgrove",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region C",
+    "district": "Potomac"
+  },
+  "Albemarle": {
+    "name": "Albemarle",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Jefferson"
+  },
+  "Brooke Point": {
+    "name": "Brooke Point",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Commonwealth"
+  },
+  "Harrisonburg": {
+    "name": "Harrisonburg",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Valley"
+  },
+  "Mountain View": {
+    "name": "Mountain View",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Commonwealth"
+  },
+  "North Stafford": {
+    "name": "North Stafford",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Commonwealth"
+  },
+  "Patrick Henry (Roanoke)": {
+    "name": "Patrick Henry (Roanoke)",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "River Ridge"
+  },
+  "Stafford": {
+    "name": "Stafford",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Commonwealth"
+  },
+  "William Fleming": {
+    "name": "William Fleming",
+    "size": 5,
+    "class": "Class 5",
+    "region": "Region D",
+    "district": "Blue Ridge"
+  },
+  "Cosby": {
+    "name": "Cosby",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Dominion"
+  },
+  "Floyd E. Kellam": {
+    "name": "Floyd E. Kellam",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Franklin County": {
+    "name": "Franklin County",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Blue Ridge"
+  },
+  "Grassfield": {
+    "name": "Grassfield",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "James River (Midlothian)": {
+    "name": "James River (Midlothian)",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Dominion"
+  },
+  "Landstown": {
+    "name": "Landstown",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Ocean Lakes": {
+    "name": "Ocean Lakes",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Oscar Smith": {
+    "name": "Oscar Smith",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Tallwood": {
+    "name": "Tallwood",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Beach"
+  },
+  "Thomas Dale": {
+    "name": "Thomas Dale",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Central"
+  },
+  "Western Branch": {
+    "name": "Western Branch",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region A",
+    "district": "Southeastern"
+  },
+  "Battlefield": {
+    "name": "Battlefield",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "C.D. Hylton": {
+    "name": "C.D. Hylton",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "Charles J. Colgan": {
+    "name": "Charles J. Colgan",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "Colonial Forge": {
+    "name": "Colonial Forge",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Commonwealth"
+  },
+  "Forest Park": {
+    "name": "Forest Park",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "Freedom (Woodbridge)": {
+    "name": "Freedom (Woodbridge)",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "Gar-Field": {
+    "name": "Gar-Field",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "John Champe": {
+    "name": "John Champe",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "Massaponax": {
+    "name": "Massaponax",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Commonwealth"
+  },
+  "Osbourn": {
+    "name": "Osbourn",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "Osbourn Park": {
+    "name": "Osbourn Park",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "Patriot": {
+    "name": "Patriot",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "Potomac": {
+    "name": "Potomac",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  },
+  "Riverbend": {
+    "name": "Riverbend",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Commonwealth"
+  },
+  "Unity Reed": {
+    "name": "Unity Reed",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cedar Run"
+  },
+  "Woodbridge": {
+    "name": "Woodbridge",
+    "size": 6,
+    "class": "Class 6",
+    "region": "Region B",
+    "district": "Cardinal"
+  }
+}
