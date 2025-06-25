@@ -14,7 +14,9 @@ The Virginia High School League (VHSL) Map Website is an interactive web applica
 ## Technical Implementation
 - **Frontend Framework**: Built with Vite for modern, fast web development
 - **Mapping Library**: OpenLayers for advanced mapping capabilities
-- **Data Source**: Authoritative GeoJSON data from VHSL
+- **Data Source**: GeoJSON files are fetched directly from the GitHub repository
+  using the `raw.githubusercontent.com` service. This keeps the application
+  lightweight and decouples the data from the deployed code.
 - **Performance Optimizations**: 
   - Style caching for faster rendering
   - Batch DOM updates for smoother UI
@@ -60,7 +62,9 @@ The website is deployed at: https://ahvnjexf.manus.space
 
 To deploy updates:
 1. Build the project with `npm run build`
-2. Deploy the contents of the `dist` directory to your web server
+2. Deploy the contents of the `dist` directory to your web server. The
+   application will retrieve GeoJSON data from GitHub at runtime, so no data
+   files need to be served alongside the build.
 
 ## Future Enhancements
 Potential future enhancements include:

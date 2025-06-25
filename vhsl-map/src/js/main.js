@@ -38,12 +38,35 @@ document.addEventListener('DOMContentLoaded', async () => {
   showLoadingIndicator();
   
   try {
-    // Load GeoJSON data - use Promise.all for parallel loading
-    const base = import.meta.env.BASE_URL || '/';
-    const [schoolsGeoJSON, lookupData] = await Promise.all([
-      fetchData(`${base}data/geojson/all_schools.geojson`),
-      fetchData(`${base}data/geojson/school_lookup.json`)
+    // Load GeoJSON data directly from GitHub to avoid bundling large files
+    const rawBase =
+      'https://raw.githubusercontent.com/wallyatkins/vhsl/refs/heads/main/';
+
+    const regionBase = `${rawBase}geojson/vhsl_regions/schools_by_region/`;
+
+    // Generate URLs for all region files (Classes 1-6, Regions A-D)
+    const regionUrls = [];
+    for (let cls = 1; cls <= 6; cls++) {
+      for (const letter of ['A', 'B', 'C', 'D']) {
+        const file = `Region ${cls}${letter}.geojson`;
+        regionUrls.push(regionBase + encodeURIComponent(file));
+      }
+    }
+
+    const lookupUrl = `${rawBase}vhsl-map/data/geojson/school_lookup.json`;
+
+    const [regionsData, lookupData] = await Promise.all([
+      Promise.all(regionUrls.map((url) => fetchData(url))),
+      fetchData(lookupUrl),
     ]);
+
+    // Combine all region features into a single FeatureCollection
+    const schoolsGeoJSON = { type: 'FeatureCollection', features: [] };
+    regionsData.forEach((data) => {
+      if (data?.features) {
+        schoolsGeoJSON.features.push(...data.features);
+      }
+    });
     
     if (!schoolsGeoJSON || !lookupData) {
       throw new Error('Failed to load required GeoJSON data');
