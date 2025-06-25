@@ -416,7 +416,7 @@ function jumpToSchool(schoolName) {
     
     // Close sidebar on mobile
     if (window.innerWidth < 768) {
-      document.getElementById('sidebar').classList.remove('active');
+      document.getElementById('sidebar')?.classList.remove('active');
       document.querySelector('.sidebar-overlay')?.classList.remove('active');
       document.getElementById('sidebar-toggle')?.classList.remove('active');
     }
@@ -737,89 +737,48 @@ function initMap(schoolsGeoJSON) {
 
 // Initialize UI components - optimized version
 function initUI() {
-  // Mobile menu toggle
-  const menuToggle = document.getElementById('menu-toggle');
-  const mainNav = document.getElementById('main-nav');
-  
-  menuToggle.addEventListener('click', () => {
-    menuToggle.classList.toggle('active');
-    mainNav.classList.toggle('active');
-  });
-  
-  // Create sidebar toggle for mobile
-  const sidebarToggle = document.createElement('button');
-  sidebarToggle.id = 'sidebar-toggle';
-  sidebarToggle.innerHTML = '<span></span><span></span><span></span>';
-  sidebarToggle.setAttribute('aria-label', 'Toggle sidebar');
-  document.querySelector('main').appendChild(sidebarToggle);
-  
-  // Create sidebar close button for mobile
-  const sidebarClose = document.createElement('button');
-  sidebarClose.id = 'sidebar-close';
-  sidebarClose.innerHTML = '×';
-  sidebarClose.setAttribute('aria-label', 'Close sidebar');
-  document.getElementById('sidebar').appendChild(sidebarClose);
-  
-  // Create overlay for mobile sidebar
-  const sidebarOverlay = document.createElement('div');
-  sidebarOverlay.className = 'sidebar-overlay';
-  document.querySelector('main').appendChild(sidebarOverlay);
-  
-  // Sidebar toggle functionality
-  sidebarToggle.addEventListener('click', () => {
-    document.getElementById('sidebar').classList.add('active');
-    sidebarOverlay.classList.add('active');
-    sidebarToggle.classList.add('active');
-  });
-  
-  // Sidebar close functionality
-  sidebarClose.addEventListener('click', () => {
-    document.getElementById('sidebar').classList.remove('active');
-    sidebarOverlay.classList.remove('active');
-    sidebarToggle.classList.remove('active');
-  });
-  
-  // Close sidebar when clicking overlay
-  sidebarOverlay.addEventListener('click', () => {
-    document.getElementById('sidebar').classList.remove('active');
-    sidebarOverlay.classList.remove('active');
-    sidebarToggle.classList.remove('active');
-  });
-  
-  // Map controls with debounce
-  document.getElementById('zoom-in').addEventListener('click', debounce(() => {
-    const view = map.getView();
-    const zoom = view.getZoom();
-    view.animate({
-      zoom: zoom + 1,
-      duration: 250
+  const zoomIn = document.getElementById('zoom-in');
+  const zoomOut = document.getElementById('zoom-out');
+
+  if (zoomIn) {
+    zoomIn.addEventListener('click', debounce(() => {
+      const view = map.getView();
+      const zoom = view.getZoom();
+      view.animate({
+        zoom: zoom + 1,
+        duration: 250
+      });
+    }, 250));
+  }
+
+  if (zoomOut) {
+    zoomOut.addEventListener('click', debounce(() => {
+      const view = map.getView();
+      const zoom = view.getZoom();
+      view.animate({
+        zoom: zoom - 1,
+        duration: 250
+      });
+    }, 250));
+  }
+
+  const resetView = document.getElementById('reset-view');
+  if (resetView) {
+    resetView.addEventListener('click', debounce(() => {
+      map.getView().animate({
+        center: fromLonLat([-79.5, 37.8]),
+        zoom: 7,
+        duration: 500
+      });
+    }, 250));
+  }
+
+  const closeInfo = document.getElementById('close-info');
+  if (closeInfo) {
+    closeInfo.addEventListener('click', () => {
+      document.getElementById('info-panel').classList.add('hidden');
     });
-  }, 250));
-  
-  document.getElementById('zoom-out').addEventListener('click', debounce(() => {
-    const view = map.getView();
-    const zoom = view.getZoom();
-    view.animate({
-      zoom: zoom - 1,
-      duration: 250
-    });
-  }, 250));
-  
-  document.getElementById('reset-view').addEventListener('click', debounce(() => {
-    map.getView().animate({
-      center: fromLonLat([-79.5, 37.8]),
-      zoom: 7,
-      duration: 500
-    });
-  }, 250));
-  
-  // Close info panel
-  document.getElementById('close-info').addEventListener('click', () => {
-    document.getElementById('info-panel').classList.add('hidden');
-  });
-  
-  // Add legend
-  createLegend();
+  }
 }
 
 // Debounce function to limit how often a function can be called
@@ -990,9 +949,9 @@ function populateSchoolList(schoolLookup) {
         
         // Close sidebar on mobile
         if (window.innerWidth < 768) {
-          document.getElementById('sidebar').classList.remove('active');
-          document.querySelector('.sidebar-overlay').classList.remove('active');
-          document.getElementById('sidebar-toggle').classList.remove('active');
+          document.getElementById('sidebar')?.classList.remove('active');
+          document.querySelector('.sidebar-overlay')?.classList.remove('active');
+          document.getElementById('sidebar-toggle')?.classList.remove('active');
         }
       }
     });
