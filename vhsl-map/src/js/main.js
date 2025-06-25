@@ -39,9 +39,10 @@ document.addEventListener('DOMContentLoaded', async () => {
   
   try {
     // Load GeoJSON data - use Promise.all for parallel loading
+    const base = import.meta.env.BASE_URL || '/';
     const [schoolsGeoJSON, lookupData] = await Promise.all([
-      fetchData('/data/geojson/all_schools.geojson'),
-      fetchData('/data/geojson/school_lookup.json')
+      fetchData(`${base}data/geojson/all_schools.geojson`),
+      fetchData(`${base}data/geojson/school_lookup.json`)
     ]);
     
     if (!schoolsGeoJSON || !lookupData) {
