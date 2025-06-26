@@ -544,6 +544,12 @@ main {
   font-weight: 500;
 }
 
+.info-link {
+  color: var(--secondary-color);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 #info-content a:hover {
   text-decoration: underline;
 }
