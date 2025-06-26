@@ -31,6 +31,7 @@ let debounceTimer;
 let visibleSchoolsCount = 0;
 let allRegions = new Set();
 let allDistricts = new Set();
+let allClasses = new Set();
 
 // Initialize the application when DOM is loaded
 document.addEventListener('DOMContentLoaded', async () => {
@@ -188,14 +189,16 @@ function initGlobalSearch() {
 function extractRegionsAndDistricts() {
   allRegions.clear();
   allDistricts.clear();
+  allClasses.clear();
   
   // Extract from school lookup
   Object.values(schoolLookup).forEach(school => {
     if (school.region) allRegions.add(school.region);
     if (school.district) allDistricts.add(school.district);
+    if (school.class) allClasses.add(school.class);
   });
-  
-  console.log(`Extracted ${allRegions.size} regions and ${allDistricts.size} districts for search`);
+
+  console.log(`Extracted ${allRegions.size} regions, ${allDistricts.size} districts and ${allClasses.size} classes for search`);
 }
 
 // Perform search across schools, regions, and districts
@@ -203,13 +206,22 @@ function performSearch(searchTerm) {
   const results = {
     schools: [],
     regions: [],
-    districts: []
+    districts: [],
+    classes: []
   };
   
   // Search schools
   Object.values(schoolLookup).forEach(school => {
     if (school.name.toLowerCase().includes(searchTerm)) {
       results.schools.push(school);
+    }
+  });
+
+  // Search classes (e.g., "Class 1")
+  Array.from(allClasses).forEach(cls => {
+    const numeric = cls.replace(/[^0-9]/g, '');
+    if (cls.toLowerCase().includes(searchTerm) || (numeric && numeric === searchTerm.replace(/[^0-9]/g, ''))) {
+      results.classes.push(cls);
     }
   });
   
@@ -231,11 +243,13 @@ function performSearch(searchTerm) {
   results.schools.sort((a, b) => a.name.localeCompare(b.name));
   results.regions.sort();
   results.districts.sort();
+  results.classes.sort();
   
   // Limit results for performance
   results.schools = results.schools.slice(0, 10);
   results.regions = results.regions.slice(0, 5);
   results.districts = results.districts.slice(0, 5);
+  results.classes = results.classes.slice(0, 6);
   
   return results;
 }
@@ -248,9 +262,10 @@ function displaySearchResults(results, searchTerm) {
   searchResults.innerHTML = '';
   
   // Check if we have any results
-  const hasResults = results.schools.length > 0 || 
-                     results.regions.length > 0 || 
-                     results.districts.length > 0;
+  const hasResults = results.schools.length > 0 ||
+                     results.regions.length > 0 ||
+                     results.districts.length > 0 ||
+                     results.classes.length > 0;
   
   if (!hasResults) {
     searchResults.innerHTML = `
@@ -264,7 +279,7 @@ function displaySearchResults(results, searchTerm) {
   
   // Create results HTML
   let resultsHTML = '';
-  
+
   // Schools section
   if (results.schools.length > 0) {
     resultsHTML += `
@@ -291,6 +306,33 @@ function displaySearchResults(results, searchTerm) {
       `;
     });
     
+    resultsHTML += `
+        </div>
+      </div>
+    `;
+  }
+
+  // Classes section
+  if (results.classes.length > 0) {
+    resultsHTML += `
+      <div class="search-result-group">
+        <h4>Classes</h4>
+        <div class="search-result-items">
+    `;
+
+    results.classes.forEach(cls => {
+      resultsHTML += `
+        <div class="search-result-item" data-type="class" data-name="${cls}">
+          <div class="search-result-info">
+            <div class="search-result-name">${cls}</div>
+          </div>
+          <div class="search-result-actions">
+            <button class="search-action-button" data-action="filter" data-type="class" data-name="${cls}">Filter</button>
+          </div>
+        </div>
+      `;
+    });
+
     resultsHTML += `
         </div>
       </div>
@@ -387,6 +429,8 @@ function handleSearchAction(e) {
       filterByRegion(name);
     } else if (type === 'district') {
       filterByDistrict(name);
+    } else if (type === 'class') {
+      filterByClass(name);
     }
   }
   
@@ -478,6 +522,36 @@ function filterByDistrict(districtName) {
   document.querySelectorAll('#main-nav a').forEach(link => {
     link.classList.remove('active');
     if (link.dataset.view === 'districts') {
+      link.classList.add('active');
+    }
+  });
+}
+
+// Filter by class
+function filterByClass(className) {
+  // Reset filters
+  resetFilters();
+
+  // Set class filter
+  activeFilters.classes.push(className);
+
+  // Update UI
+  document.querySelectorAll('#class-filters .filter-options input[type="checkbox"]').forEach(checkbox => {
+    if (checkbox.value === className) {
+      checkbox.checked = true;
+    }
+  });
+
+  // Apply filters
+  filterSchools();
+
+  // Switch to classes view
+  updateMapView('classes');
+
+  // Update active navigation
+  document.querySelectorAll('#main-nav a').forEach(link => {
+    link.classList.remove('active');
+    if (link.dataset.view === 'classes') {
       link.classList.add('active');
     }
   });
@@ -975,13 +1049,33 @@ function showSchoolInfo(feature) {
   const district = feature.get('district');
   
   // Use innerHTML for better performance when replacing all content
+  const classText = size ? `Class ${size}` : 'N/A';
+  const regionText = region || 'N/A';
+  const districtText = district || 'N/A';
+
   infoContent.innerHTML = `
     <h2>${name}</h2>
-    <p><strong>Class:</strong> ${size ? `Class ${size}` : 'N/A'}</p>
-    <p><strong>Region:</strong> ${region || 'N/A'}</p>
-    <p><strong>District:</strong> ${district || 'N/A'}</p>
+    <p><strong>Class:</strong> ${size ? `<a href="#" class="info-link" data-filter-type="class" data-value="${classText}">${classText}</a>` : 'N/A'}</p>
+    <p><strong>Region:</strong> ${region ? `<a href="#" class="info-link" data-filter-type="region" data-value="${region}">${region}</a>` : 'N/A'}</p>
+    <p><strong>District:</strong> ${district ? `<a href="#" class="info-link" data-filter-type="district" data-value="${district}">${district}</a>` : 'N/A'}</p>
     <p><a href="https://www.vhsl.org" target="_blank" rel="noopener noreferrer">View on VHSL website</a></p>
   `;
+
+  // Add listeners to filter links
+  infoContent.querySelectorAll('.info-link').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      const type = link.dataset.filterType;
+      const value = link.dataset.value;
+      if (type === 'class') {
+        filterByClass(value);
+      } else if (type === 'region') {
+        filterByRegion(value);
+      } else if (type === 'district') {
+        filterByDistrict(value);
+      }
+    });
+  });
   
   // Show the panel
   infoPanel.classList.remove('hidden');
